@@ -1,0 +1,768 @@
+1/26/2022 16:03:35 PM	GitHub	https://github.com/
+1/26/2022 16:03:44 PM	pdewan/DemoCourseProject: Project to be checked by DemoCourse local and all checks	https://github.com/pdewan/DemoCourseProject
+1/26/2022 16:03:44 PM	DemoCourseProject/src at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src
+1/26/2022 16:03:46 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+1/26/2022 16:03:39 PM	Your Stars	https://github.com/WidAlsa0?tab=stars
+1/26/2022 16:13:03 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+1/26/2022 16:12:28 PM	DemoCourseProject/Philosopher.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/Philosopher.java
+1/26/2022 16:12:56 PM	DemoCourseProject/PhilosopherInterface.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/PhilosopherInterface.java
+1/26/2022 16:13:08 PM	DemoCourseProject/PhilosopherAvatar.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/PhilosopherAvatar.java
+1/26/2022 16:31:22 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+1/26/2022 16:32:09 PM	DemoCourseProject/PhilosopherAvatar.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/PhilosopherAvatar.java
+1/26/2022 16:27:40 PM	DemoCourseProject/RotatingLine.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/RotatingLine.java
+1/26/2022 16:31:07 PM	DemoCourseProject/Locatable.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/Locatable.java
+1/26/2022 16:31:16 PM	DemoCourseProject/Table.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/Table.java
+1/26/2022 16:36:13 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+1/26/2022 16:36:11 PM	DemoCourseProject/PhilosopherAvatar.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/PhilosopherAvatar.java
+1/26/2022 16:36:15 PM	DemoCourseProject/BoundedShape.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/BoundedShape.java
+1/26/2022 16:34:40 PM	DemoCourseProject/PhilosopherAvatar.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics/PhilosopherAvatar.java#L16
+1/26/2022 16:44:07 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+1/26/2022 16:44:10 PM	DemoCourseProject/PhilosopherAvatar.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/PhilosopherAvatar.java
+1/26/2022 16:42:33 PM	DemoCourseProject/BoundedShapeInterface.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/BoundedShapeInterface.java
+1/26/2022 21:21:24 PM	GitHub	https://github.com/
+1/26/2022 21:21:38 PM	COMP 426 Spring 2022	https://github.com/comp426-2022-spring
+1/26/2022 21:21:47 PM	Issues · comp426-2022-spring/a01	https://github.com/comp426-2022-spring/a01/issues
+1/26/2022 21:21:46 PM	comp426-2022-spring/a01: This assignment for COMP 426 will help you get started with Node.js and hacking your way through creating a web server from scratch.	https://github.com/comp426-2022-spring/a01
+1/26/2022 21:21:49 PM	Autograder timeout issue · Issue #7 · comp426-2022-spring/a01	https://github.com/comp426-2022-spring/a01/issues/7
+1/26/2022 21:21:28 PM	Dashboard	https://github.com/orgs/comp426-2022-spring/dashboard
+1/26/2022 21:44:46 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/26/2022 21:44:46 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/26/2022 21:44:51 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+1/26/2022 21:44:53 PM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+1/26/2022 21:45:42 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0
+1/26/2022 21:45:46 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0#
+1/26/2022 21:45:46 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0?panel=Main
+1/26/2022 21:44:43 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT4MwFIb%2FCun9KDDIsmaQ4HbhkqlkoBfemAIHaSwt9hQ%2F%2Fr1szGUmZtd9P%2Fo%2BOSvknexZOthW7eF9ALTOVycVsuNDTAajmOYokCneATJbsTy927HA9VhvtNWVlsRJEcFYodVaKxw6MDmYD1HB434Xk9baHhmlyN%2B4cAdVuVAPNG9FWWoJtnURNT2EBjR7yAvibMZfCMUPeRdu1GevqHs6ljdCwsm4h1oYqCzN8wfibDcxeeERb2DJfX8RhpFfQhPNw3qxjLyaN9EyjEYZ4gBbhZYrG5PAC4KZ58%2BCReEFLAxZOH8mTnbaeCNULdTrdSDlJEJ2WxTZbBrzBAaPQ0YBSVYHrOxYbC5AX4%2Flv3RJ8j9LPLNc0YuCqa1n92PidpNpKapvJ5VSf64NcAsx8QlNJsvfG0h%2BAA%3D%3D&RelayState=ss%3Amem%3A299a68f7eab998f6962bd2267c519be4a859cf76037a6cc89bf695f637b44683&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=kXsdybJN3dseofETrqVegXEBKNo1MK97S97n72hx1GJApicxV0G9BsuUjcDO71wvTWY4bV%2Fh48BltwuMJQ6sl9eRh13Kylh6YPoQZ%2FPrQ6833IpSBremUR%2BeaajQ4CVW44cpJpvVH82Os1o%2BR6Rryt6uYUPSsFgdo8pmO1SWbpqNS0x2bZ%2BcYJtyFy9HBoXHrxYxbkLgML5WL7wzHUlVtrWB6%2F959bCMwrUaSWiYy2%2FuAPp6Ll4XBi1frDevSFjAPJKifn39Z5o6wXBR2hXMFpGS5PskqEVoWdFeEn14FXMrnEae%2BGT74sX9ij7AfEiOsYRTdg2a8GFQhXE6Y2Us%2BQ%3D%3D
+1/26/2022 21:45:04 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsgDirectAccess?current_msg_detail=6854037
+1/26/2022 21:45:30 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsgDetail
+1/26/2022 21:45:38 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsg
+1/27/2022 10:09:59 AM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+1/27/2022 10:21:00 AM	GitHub	https://github.com/
+1/27/2022 10:22:13 AM	COMP 426 Spring 2022	https://github.com/comp426-2022-spring
+1/27/2022 10:21:08 AM	comp426-2022-spring/a01-WidAlsa0: a01-WidAlsa0 created by GitHub Classroom	https://github.com/comp426-2022-spring/a01-WidAlsa0
+1/27/2022 10:21:47 AM	Issues · comp426-2022-spring/a01	https://github.com/comp426-2022-spring/a01/issues
+1/27/2022 10:22:17 AM	comp426-2022-spring/a01: This assignment for COMP 426 will help you get started with Node.js and hacking your way through creating a web server from scratch.	https://github.com/comp426-2022-spring/a01
+1/27/2022 10:21:09 AM	Actions · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions
+1/27/2022 10:21:31 AM	Autograder timeout issue · Issue #7 · comp426-2022-spring/a01	https://github.com/comp426-2022-spring/a01/issues/7
+1/27/2022 10:22:09 AM	comp426-2022-spring/a01-sarawagi: a01-sarawagi created by GitHub Classroom	https://github.com/comp426-2022-spring/a01-sarawagi
+1/27/2022 10:22:03 AM	comp426-2022-spring/a01-skylerwon: a01-skylerwon created by GitHub Classroom	https://github.com/comp426-2022-spring/a01-skylerwon
+1/27/2022 10:25:21 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/27/2022 10:25:21 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/27/2022 10:25:19 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT8IwFIb%2FytJ71q1sgA1bgnAhCSph6IU3pusO0qRrZ0%2Fnx793MES84brvx3mfdIqi1g2ftX5vNvDeAvrgq9YG%2BfEhI60z3ApUyI2oAbmXvJjdrzgLI9446620mgQzRHBeWTO3BtsaXAHuQ0l42qwysve%2BQU6ptHWTplEoMWyNDKFqabFXZWk1%2BH2IaOkhmdH1Y7ElwaI7RRlxCP2L6ERnr6oa2l2wUxpOxg1UyoH0tCgeSbBcZOR1xNJEimgsh8loGCXRKGFJcsPKareLJgKGnQyxhaVBL4zPCIsYG0TxgI23ccpZyuPJCwnWp6G3ylTKvF2nUvYi5Hfb7XrQj3kGh8chnYDk0wNbfix2F7Svx4pfxCS%2FAhTPQKf0oqWvbPhDF7tcrK1W8juYaW0%2F5w6Eh4zEhOa95f9vyH8A&RelayState=ss%3Amem%3Aec993408ca87a8e80cd53a7ec67faf9500812876a99651142fc163a336214842&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=MeTe%2FxAXUQRzg4a47SNje3tc525fyrHGTNgGJEw64F4b6xhwEj%2FbQWx%2FVfJLJcLmpeWftf%2B%2F%2BM6U%2BmlYa77nk%2FjWE8z83DOCaywInf3BGDhlzjrpKoY7i7Zj5aOaoa%2Brno9ZKajWoI4viNe%2F8TDTXgAAmgUt%2FZqJFwjHPQFRcDD0nTcIbd00on75RXDrFXoOerex2cJ28e07LtTyP99LW9W9tuiv6QW%2BCooqpBPgSVyjmC4ErhweD9pYen6HNPwDx0HzmHXtTvTr%2BsfWwNTCqbPGlnyhqb2sseytnvC80KYC36Pyv376gQI0s8xSIjz%2FOdj%2BrOJnr%2BxFmHTZbVB7PF1Z5IIZSJOxVAZSdQNtcQDk81l%2FvdaxBJuWnk7A3IDYJHj6w5sWi03cGE4xYNcMRMLCfWmxdoaDYfVs4N9Umod1%2FLLqGFpVrB%2Fco%2BDTxZExDnTTc6TiDcCXV9v4G4IQdoHUY2KYCHW77Xg3ot%2BMRZ9%2BSXz0JessgD0t7q7nVY%2BQ
+1/27/2022 10:25:39 AM	05-Recurrence-Relations-Divide-and-Conquer-A-Substitution.pdf	https://comp550.cs.unc.edu/static/slides/05-Recurrence-Relations-Divide-and-Conquer-A-Substitution.pdf?61f19149
+1/27/2022 10:30:04 AM	Getting Help	https://comp550.cs.unc.edu/syllabi/help
+1/27/2022 10:30:01 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/27/2022 10:36:20 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/27/2022 10:36:24 AM	01 Homework	https://comp550.cs.unc.edu/homeworks/homework-01-summations
+1/27/2022 11:00:19 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/27/2022 11:10:36 AM	Submissions	https://comp550.cs.unc.edu/view/worksheet-chapter-3-1/7586
+1/27/2022 11:50:13 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/27/2022 11:50:15 AM	05 Recurrence Substitution Example I Worksheet	https://comp550.cs.unc.edu/worksheets/worksheet-05-A-example-1
+1/27/2022 12:07:54 PM	05 Recurrence Substitution Example I Worksheet	https://comp550.cs.unc.edu/worksheets/worksheet-05-A-example-1
+1/27/2022 12:07:52 PM	Submissions	https://comp550.cs.unc.edu/view/worksheet-05-A-example-1/12355
+1/27/2022 12:28:27 PM	GitHub	https://github.com/
+1/27/2022 12:30:48 PM	comp426-2022-spring/a01-WidAlsa0: a01-WidAlsa0 created by GitHub Classroom	https://github.com/comp426-2022-spring/a01-WidAlsa0
+1/27/2022 12:30:17 PM	Pull requests · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/pulls
+1/27/2022 12:30:24 PM	Actions · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions
+1/27/2022 12:29:37 PM	Actions · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions/new
+1/27/2022 14:01:44 PM	GitHub	https://github.com/
+1/27/2022 14:04:48 PM	comp426-2022-spring/a01-WidAlsa0: a01-WidAlsa0 created by GitHub Classroom	https://github.com/comp426-2022-spring/a01-WidAlsa0
+1/27/2022 14:01:57 PM	Issues · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/issues
+1/27/2022 14:03:52 PM	Actions · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions
+1/27/2022 14:04:47 PM	Merge branch 'main' of https://github.com/comp426-2022-spring/a01-WidAlsa0 into main · comp426-2022-spring/a01-WidAlsa0@95d5ec9	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions/runs/1757971467
+1/27/2022 14:27:23 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/27/2022 14:27:23 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/27/2022 14:27:25 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/27/2022 14:27:34 PM	01 Homework	https://comp550.cs.unc.edu/homeworks/homework-01-summations
+1/27/2022 14:26:57 PM	Actions · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0
+1/27/2022 14:26:57 PM	Actions · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions
+1/27/2022 14:27:01 PM	Merge branch 'main' of https://github.com/comp426-2022-spring/a01-WidAlsa0 into main · comp426-2022-spring/a01-WidAlsa0@95d5ec9	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions/runs/1757971467
+1/27/2022 14:27:21 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9FDqV2QgJ04uZuEmE7WI3C5TDaAIt6yn7%2BPdDcc7deN3347xPusS8bToe97ZWe3jvAa3z1TYK%2BfEhJL1RXOcokau8BeRW8DR%2B2HLmerwz2mqhG%2BLEiGCs1GqlFfYtmBTMhxTwtN%2BGpLa2Q06p0G03m3muQLdXwoWyp2kti0I3YGsXUdNDMqPJLs2Isx5OkSo%2FhP5FDKKzV5YdHS6oZAMn4x5KaUBYmqY74mzWIXmdz6tbmAbgB3O%2FWAgWBCAqMfVvYLaAeVENMsQeNgptrmxImMfYxPMnLMj8BWcBZ94LcZLT0DupSqnerlMpRhHy%2ByxLJuOYZzB4HDIISLQ8sOXHYnNB%2B3ps%2FouYRFeA4hnokl60jJUdfxxiN%2BtEN1J8O3HT6M%2BVgdxCSHxCo9Hy%2FzdEPw%3D%3D&RelayState=ss%3Amem%3Aded433ca0048e5f5dcce7cd872727094559848a4d9d8c754af4372e464648e20&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=lglNOJl3XIcB6CIUDvMp%2B9KCQ9c3p5H1kD7nxDftKKZnROL5hnBabPmN12Q7DdaO%2FKkq55nEkdg3Uc15a%2Fnt7cGGnGnwn%2BSsbNXwZd1ZjhopXy4NXh9W6b4WfLk9b%2BNBP7F9zRIaRerIpGbyoaJFD61xpAXdsR%2FTl2QZCjIm25GYqWLactElz7Y5Uvb%2B0Maec%2F5mNcoJafyimvyYQWk%2FueGFxFNuMr5m0Y6byATFLtDUdZ5V2BFE9kffPkMFNU7YWnac07HyowMpkgcK9yQazP%2BR48t5dckir89UqDkp0EROaQoD7U0XNfIUgzvpsgD8tuSEmN3Jur%2FKGDyJMpEZ9nDMlGLWN3%2FQV6yn3CWJIsCGST2qa202lhS4NcY8tPW1A6i462kYMgDKBsB%2FffQxAo3ovJby4l16t5ZM0yCr2b6GLwfIc0NA3SrpCn3U5FYrpe%2BUjXhhaVL9Bys%2FbBbz0qjNfOl1LFKR3RKXVe3GurHX8fxsZmi6nc5jzhESdewq
+1/27/2022 14:35:03 PM	03-Summation-Limits.pdf	https://comp550.cs.unc.edu/static/slides/03-Summation-Limits.pdf?61e58e57
+1/27/2022 14:38:30 PM	251lects.dvi	https://www.cs.umd.edu/users/meesh/cmsc351/mount/lectures/lect3-sums-and-loops.pdf
+1/27/2022 14:50:14 PM	CLRS Solutions	https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+1/27/2022 14:50:46 PM	03-Summation-Limits.pdf	https://comp550.cs.unc.edu/static/slides/03-Summation-Limits.pdf?61e58e57
+1/27/2022 14:53:35 PM	SummationNotation	https://www.cs.yale.edu/homes/aspnes/pinewiki/SummationNotation.html?highlight=%28CategoryAlgorithmNotes%29
+1/27/2022 14:53:32 PM	SummationNotation	https://www.cs.yale.edu/homes/aspnes/pinewiki/SummationNotation.html?highlight=%28CategoryAlgorithmNotes%29#Scope
+1/27/2022 15:30:57 PM	The Web in General - 202200113	https://comp426-2022-spring.github.io/slides/w01-01.html
+1/27/2022 15:31:05 PM	Scripting and Testing	https://comp426-2022-spring.github.io/slides/w02-01.html
+1/27/2022 16:02:23 PM	GitHub	https://github.com/
+1/27/2022 16:03:59 PM	comp426-2022-spring/a01-WidAlsa0: a01-WidAlsa0 created by GitHub Classroom	https://github.com/comp426-2022-spring/a01-WidAlsa0
+1/27/2022 16:03:42 PM	Issues · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/issues
+1/27/2022 16:03:44 PM	Actions · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions
+1/27/2022 16:02:15 PM	Dashboard	https://github.com/orgs/comp426-2022-spring/dashboard
+1/27/2022 16:03:47 PM	Merge branch 'main' of https://github.com/comp426-2022-spring/a01-WidAlsa0 into main · comp426-2022-spring/a01-WidAlsa0@95d5ec9	https://github.com/comp426-2022-spring/a01-WidAlsa0/actions/runs/1757971467
+1/27/2022 16:03:59 PM	a01-WidAlsa0/.github at main · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/tree/main/.github
+1/27/2022 16:03:14 PM	a01-WidAlsa0/.keep at main · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/blob/main/.github/.keep
+1/27/2022 16:03:27 PM	a01-WidAlsa0/.github/workflows at main · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/tree/main/.github/workflows
+1/27/2022 16:03:30 PM	a01-WidAlsa0/classroom.yml at main · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/blob/main/.github/workflows/classroom.yml
+1/27/2022 16:03:49 PM	Merge branch 'main' of https://github.com/comp426-2022-spring/a01-WidAlsa0 into main · comp426-2022-spring/a01-WidAlsa0@95d5ec9	https://github.com/comp426-2022-spring/a01-WidAlsa0/runs/4971235626?check_suite_focus=true
+1/27/2022 16:04:01 PM	a01-WidAlsa0/.github/classroom at main · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/tree/main/.github/classroom
+1/27/2022 16:04:02 PM	a01-WidAlsa0/autograding.json at main · comp426-2022-spring/a01-WidAlsa0	https://github.com/comp426-2022-spring/a01-WidAlsa0/blob/main/.github/classroom/autograding.json
+1/27/2022 16:32:06 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/27/2022 16:32:06 PM	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9FEtw2ggJ04uZuEmE7WI3SynH0QRa1lP28e%2BH4jZ343Xfj%2FM%2B6RJF23Q87V2t9%2FDWAzrvs2008tNDTHqruRGokGvRAnIneZ7ebznzA95Z44w0DfFSRLBOGb0yGvsWbA72XUl43G9jUjvXIadUmraLosCX6Pda%2BlD1NK9VWZoGXO0jGnpMZjTb5QXx1sMpSotj6F%2FEIPr1qqqjwwUH1cDZuIdKWZCO5vmOeJt1TF7CCKIgKsNFKKJqPmNBxeblTISHxWEqy3k4yBB72Gh0QruYsICxSTCdsJuCTXnIeBA9Ey87D71VulL69TqVchQhvyuKbDKOeQKLpyGDgCTLI1t%2BKrYXtK%2FHih%2FEJLkCFH%2BBLulFy1jZ8YchdrPOTKPkl5c2jflYWRAOYjIlNBkt%2F39D8g0%3D&RelayState=ss%3Amem%3A80de83649991d53c7d99156b340c8b1668c247948e17459b9e5a3ff05c8cf3f7&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=H%2BY6DWogrjzBnmW6RCcmJo%2FxFuTuFXY2Q4riP2%2FVW1axZ8Dj8yuGuEb9S2h%2BLYF6CW6tXuyGyGxdebENcZkINb6DSgehczkSUGqkOAHgMsNoXBXPWxXL1x2HgLroBTDDWJoXegvMWmrzZ8ozMOeTkHxG3U%2BsD0FCOVq1qo67a0XI%2F3wpkm3j%2FGZPdfhRpqXkinUQP%2BkDhtRVLfu71yTXsSnxHI2olKVvSMyqvnOce8pnpN6Ne71ga2CDIJZeREKS7FPHw%2Fk2bKtJ4bRfzhMlpAT5GTmQ0Tm8JHxijPrcl0l47X9oUHomEEhR4qtvUDPNuxeSxi10A5%2F7XkkhpuYnN5U25SUdrZn1Jp4XvK83%2FEdn0oQstyEp6hsqtuiRGQMTtF6UJl6faroQf5y5R3ezk0aE6A69u25V9ywZLDM2BrS079GLVwNGv7WT72x6Kem4LL%2FV6oXU1qgV2bvnCaaShmrVxg8ZluKSnKdli3kOi7JLnLoBbnXAvV4WQ4p8sZE%2B	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9FEtw2ggJ04uZuEmE7WI3SynH0QRa1lP28e%2BH4jZ343Xfj%2FM%2B6RJF23Q87V2t9%2FDWAzrvs2008tNDTHqruRGokGvRAnIneZ7ebznzA95Z44w0DfFSRLBOGb0yGvsWbA72XUl43G9jUjvXIadUmraLosCX6Pda%2BlD1NK9VWZoGXO0jGnpMZjTb5QXx1sMpSotj6F%2FEIPr1qqqjwwUH1cDZuIdKWZCO5vmOeJt1TF7CCKIgKsNFKKJqPmNBxeblTISHxWEqy3k4yBB72Gh0QruYsICxSTCdsJuCTXnIeBA9Ey87D71VulL69TqVchQhvyuKbDKOeQKLpyGDgCTLI1t%2BKrYXtK%2FHih%2FEJLkCFH%2BBLulFy1jZ8YchdrPOTKPkl5c2jflYWRAOYjIlNBkt%2F39D8g0%3D&RelayState=ss%3Amem%3A80de83649991d53c7d99156b340c8b1668c247948e17459b9e5a3ff05c8cf3f7&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=H%2BY6DWogrjzBnmW6RCcmJo%2FxFuTuFXY2Q4riP2%2FVW1axZ8Dj8yuGuEb9S2h%2BLYF6CW6tXuyGyGxdebENcZkINb6DSgehczkSUGqkOAHgMsNoXBXPWxXL1x2HgLroBTDDWJoXegvMWmrzZ8ozMOeTkHxG3U%2BsD0FCOVq1qo67a0XI%2F3wpkm3j%2FGZPdfhRpqXkinUQP%2BkDhtRVLfu71yTXsSnxHI2olKVvSMyqvnOce8pnpN6Ne71ga2CDIJZeREKS7FPHw%2Fk2bKtJ4bRfzhMlpAT5GTmQ0Tm8JHxijPrcl0l47X9oUHomEEhR4qtvUDPNuxeSxi10A5%2F7XkkhpuYnN5U25SUdrZn1Jp4XvK83%2FEdn0oQstyEp6hsqtuiRGQMTtF6UJl6faroQf5y5R3ezk0aE6A69u25V9ywZLDM2BrS079GLVwNGv7WT72x6Kem4LL%2FV6oXU1qgV2bvnCaaShmrVxg8ZluKSnKdli3kOi7JLnLoBbnXAvV4WQ4p8sZE%2B
+1/27/2022 20:16:16 PM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1kb34wFyANejqR5Yl473GmoBz9dGy5-NW
+1/27/2022 20:16:30 PM	Utopia - Google Docs	https://docs.google.com/document/d/1eYIQnjYa1vMbyzLWpqsmLYhxxj8wYWq2TshEwOeX1Rw/edit
+1/27/2022 20:23:58 PM	Utopia - Google Docs	https://docs.google.com/document/d/1eYIQnjYa1vMbyzLWpqsmLYhxxj8wYWq2TshEwOeX1Rw/edit
+1/27/2022 20:35:47 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/27/2022 20:36:16 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e2s1
+1/27/2022 20:35:47 PM	UNC-Chapel Hill Single Sign-On	https://comp550.cs.unc.edu/
+1/27/2022 20:36:15 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=hVLLboMwEPwVbj6BgZaIWBApTQ6NlCoRpD30EhmzadyC7XpNlc8v5NHm0vS8M7MzO5shbxvDpp3bqwI%2BO0DnTRHBOqnVTCvsWrAl2C8p4LlY5mTvnEFGKTcmeNdS7bmqcc8%2FIBC6pYPaVpxoxJv3alLxQeqXiKiDTokA6o7K2lBj9U42QMvp0zKmBdTSgnC0LFfEW8xzsuWpgFFYC3%2BcJmP%2FPhXCT0dp5SeQVLUYJ6NKJD0UsYOFQseVy0kcxrEfRn6cbsKI3Y1YFL0Sb22100I3D1LVUr3lpLOKaY4SmeItIHOCDTZYHISsOoGQPW42a3%2B9KjfEewGLxzA9gHiHtlHIhsi3lfjlntcUc5tjzlbJJBvQ7BjPTv65vsnoNTo7lXvuFepjy32pDg7Om%2BnWcCtxiAMHLtxl1TVq1vTmC9hNzsI3Zn%2Fs%2BZlev9jkGw%3D%3D
+1/27/2022 20:36:19 PM	(78) UNC Computer Science Big 5 Tech Alumni Panel (Virtual) | Handshake	https://app.joinhandshake.com/edu/events/941284
+1/27/2022 20:38:50 PM	Handshake | University Career Services	https://careers.unc.edu/students/resources/handshake
+1/27/2022 20:53:54 PM	Multiple Summation: Dependent variables Lecture 3: Find double summation r.nCr=? - YouTube	https://www.youtube.com/watch?v=RJBDzb-NadA
+1/27/2022 20:54:24 PM	Multiple Summation: Dependent variables Lecture 2 Find double summation nCi+nCj ? - YouTube	https://www.youtube.com/watch?v=rqTAEp-irRs
+1/27/2022 20:58:21 PM	Multiple Summation: Dependent variables Lecture 2 Find double summation nCi+nCj ? - YouTube	https://www.youtube.com/watch?v=rqTAEp-irRs
+1/27/2022 21:04:27 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/28/2022 10:01:59 AM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1kb34wFyANejqR5Yl473GmoBz9dGy5-NW
+1/27/2022 21:04:35 PM	04-Asymptotic-Analysis-ii.pdf	https://comp550.cs.unc.edu/static/slides/04-Asymptotic-Analysis-ii.pdf?61eeb9c3
+1/27/2022 21:04:27 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT8IwFIb%2FytJ71q4DBw1bgnAhCSph6IU3pusO0mRrZ0%2Fnx793MES84brvx3mfdIqyrhoxa%2F3ebOC9BfTBV10ZFMeHlLTOCCtRozCyBhReiXx2vxI8ZKJx1ltlKxLMEMF5bc3cGmxrcDm4D63gabNKyd77BgWlytbNaMRChWFrVAhlS%2FO9Lgpbgd%2BHiJYekjldP%2BZbEiy6U7SRh9C%2FiE509uqyod0FO13BybiBUjtQnub5IwmWi5S8JkkUFwzYbseLeBLtxiqOk1Ep%2BQSGSTJhnQyxhaVBL41PCWecD1g04OMt44INBb95IcH6NPRWm1Kbt%2BtUil6E4m67XQ%2F6Mc%2Fg8DikE5BsemArjsXugvb1WPmLmGRXgOIZ6JRetPSVjXjoYpeLta20%2Bg5mVWU%2F5w6kh5REhGa95f9vyH4A&RelayState=ss%3Amem%3Ac3a74537d0224df502c322cdcf6e1108f2129586af511c7417dbbea6112eb635&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=jiL1gdpBBIGOUH97Z4a65I8QlJuYaDCUQokA0j6ujhG3uebBPnpY3b6eHtgIsbc4%2F2xpCBP3CSn%2BCmt3jSYN33pJzeU8%2F3AbSP6nNjJ2vCW3afQiEfkSXWGl4Y1wvdgQUcChjMtYhmW%2BZ9KhTR7t1Wn%2FDomhgB8k5X0OAnZH9dhBNqb5S3XFOC3apTqcFsin1%2Fie187QRnEG4w6qsLwrnpLPvMf2iSuM15u0M%2BSTE3gpyoZPBW%2FSmnl0buZMMkIIYPAsqOiwuR6lm0BlvSGyqUCVHV6nsWhuSm8G1rsSNV5xgO1yoKeAUEuFBhBZnlDyVRGrdWmZKfezYxlRyHKbxANDvSq4PYHf6cUYbfqGr1GFjJOVuYPmn%2BUXzmtyWO1yReC8i7a3AWoEjAc%2FCbd%2FVdSWOVO4an3RtchUM%2ByRviZWMbIApykYzxw7cE%2B%2Fw3NC7oT3vXixeAl3vNni%2Fkhm%2B5b5e4Qd%2FFVFTefQmWCkSK4L8ceucID9u%2BThIILcGXGG
+1/28/2022 10:02:01 AM	Untitled document - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:12:16 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:17:13 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:22:21 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:25:04 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:28:35 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/28/2022 10:29:08 AM	COMP 301 (4 unread)	https://piazza.com/class/koslinq2ke12nl
+1/28/2022 10:29:12 AM	COMP 550 (18 unread)	https://piazza.com/class/kx51w0xmxl25pq
+1/28/2022 10:28:35 AM	Getting Help	https://comp550.cs.unc.edu/syllabi/help
+1/28/2022 10:32:26 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:28:33 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9FOowrhESphczcZMI28VullKOowm0rKfs498PxTl343Xfj%2FM%2B6QJF23Q87V2td%2FDeAzrvq2008uNDTHqruRGokGvRAnIneZ4%2BbDjzA95Z44w0DfFSRLBOGb00GvsWbA72Q0l42m1iUjvXIadUmraLosCX6Pda%2BlD1NK9VWZoGXO0jGnpIZjTb5gXxVsMpSotD6F%2FEIDp7VdXR4YK9auBk3EGlLEhH83xLvPUqJq%2FBlN1CFO5vAiErMRdROZtXQTkLorKspqwcZIg9rDU6oV1MWMDYJAgnbF6EEWdzPg1fiJedht4pXSn9dp1KOYqQ3xdFNhnHPIPF45BBQJLFgS0%2FFtsL2tdjxS9iklwBimegC3rRMlZ2%2FHGIXa8y0yj57aVNYz6XFoSDmISEJqPl%2F29IfgA%3D&RelayState=ss%3Amem%3A0ebb752028bc68442ed263dc09da324b6a9e756583af4086205359c2e2f4b2f5&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=qqqBkh5NnR6g1hz0v3xB1b1zc4lj31flkAq4g63f%2FPJ9HBhABgotMgYfv9MRLJQ0z%2FXe5fClhXtN1KBUlZ8g%2Br%2BRQYGH8lA8H0IPa9PnYBS8cNDuWDVbNKPmxHTt2IP4Aawv4oLfqhzhflV%2B4m8CNqjwPqCnY5NQ5%2BhV4FuY7Umoncv7ojue27EN%2BwPnQOxithuURxK29JOflo1h1AYHe7KBn2R2oqExL8naHbNN8%2FwdeNd7XIs8e%2FwHPEncfdDNPfkqCb5HeJ7vk%2FdzECGyKYaq4ja%2FgUhbuEyvUUs3o3MIWmYop4sbi5dLWVmazaVAq3ixpk8HVzb923wfETb9KXSb2a4NsVn2V%2BYOZVe8WQ1HYFKGrrqOpQSUFCQGHlMeTokYKy0JforuV73kYmhcNIFQZRuOgZ%2BKmtAlbqwQKilyKcNToCMdLBiQ53ZJnZ36JXbd8v6FmauAapSFB4qKuDT11ktE8G9OPcEEYCEBAtlmY6tnXNSdlQ1UmS%2F6BbQK
+1/28/2022 10:29:15 AM	COMP 550 (17 unread)	https://piazza.com/class/kx51w0xmxl25pq?cid=66
+1/28/2022 10:29:25 AM	COMP 550 (16 unread)	https://piazza.com/class/kx51w0xmxl25pq?cid=65
+1/28/2022 10:29:27 AM	COMP 550 (15 unread)	https://piazza.com/class/kx51w0xmxl25pq?cid=61
+1/28/2022 10:34:49 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:40:10 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:55:20 AM	COMP 311 (9 unread)	https://piazza.com/class/ky1qprgqfsd1j
+1/28/2022 10:54:38 AM	01/28 Recitation - Google Docs	https://docs.google.com/document/d/17nBhPVDGn_4NPbq52MGdz10UnnMyBinBbAsj1WSeOCg/edit
+1/28/2022 10:55:30 AM	COMP 311 (8 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=108
+1/28/2022 10:55:34 AM	COMP 311 (7 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=111
+1/28/2022 11:10:13 AM	ConnectCarolina	https://connectcarolina.unc.edu/
+1/28/2022 11:10:16 AM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+1/28/2022 11:10:18 AM	sso.unc.edu	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+1/28/2022 11:10:16 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+1/28/2022 11:10:16 AM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 11:10:16 AM	An error has occurred.	https://cs.cc.unc.edu/
+1/28/2022 11:10:16 AM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 11:10:16 AM		https://fs.cc.unc.edu/
+1/28/2022 11:10:17 AM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 11:10:17 AM	An error has occurred.	https://hc.cc.unc.edu/
+1/28/2022 11:10:17 AM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 11:10:17 AM	An error has occurred.	https://csrpt.cc.unc.edu/
+1/28/2022 11:10:17 AM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 11:10:18 AM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+1/28/2022 11:10:18 AM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 11:10:18 AM	Self Service	https://hcrpt.cc.unc.edu/
+1/28/2022 11:10:20 AM	Self Service	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+1/28/2022 11:10:27 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+1/28/2022 11:10:28 AM		https://unctim.unc.edu/wfc/logon
+1/28/2022 11:10:28 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+1/28/2022 11:10:28 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+1/28/2022 11:10:29 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+1/28/2022 11:10:28 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLRTsIwFP2Vpe%2BsW3UDGrYE5UESFMKGJr6Y2l6gydbO3g79fOdAxQd5am567jnnnnsnKOqKNXza%2Br1Zw1sL6IOPujLIjz8ZaZ3hVqBGbkQNyL3kxfR%2BwVkY8cZZb6WtSDBFBOe1NbfWYFuDK8AdtITNepGRvfcNckpbI72uw%2B4JQbX0fStpZXfWPGm%2F38xnJJh18tqIL57fLkT706JVQzvRra6AfrlgdA1KO5CeFsWSBPNZRl7isRBDNkxhnDIFIkmlENskuY5HV0rKYdrBEFuYG%2FTC%2BIywiLFBFA%2FYqIxTHkecJeE4ip9JsDrNd6ON0mZ3OYzXIwj5XVmuBqtlUfYEB63APXToSzmQ4BEc9mN3VCSf9Onz3qc7X8hlC%2BJ7CyT%2FX2tCz8nzU%2Fn3BvJP&RelayState=
+1/28/2022 11:46:10 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/28/2022 11:46:18 AM	04-Asymptotic-Analysis-i.pdf	https://comp550.cs.unc.edu/static/slides/04-Asymptotic-Analysis-i.pdf?61e8cf2e
+1/28/2022 11:47:18 AM	04-Asymptotic-Analysis-ii.pdf	https://comp550.cs.unc.edu/static/slides/04-Asymptotic-Analysis-ii.pdf?61eeb9c3
+1/28/2022 12:31:33 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/28/2022 12:29:42 PM	04-F Analysis Comparison	https://comp550.cs.unc.edu/worksheets/worksheet-04-F-comparison
+1/28/2022 12:29:39 PM	Submissions	https://comp550.cs.unc.edu/view/worksheet-04-F-comparison/10796
+1/28/2022 12:29:26 PM	05 Recurrence Substitution Example I Worksheet	https://comp550.cs.unc.edu/worksheets/worksheet-05-A-example-1
+1/28/2022 12:29:21 PM	Submissions	https://comp550.cs.unc.edu/view/worksheet-05-A-example-1/12355
+1/28/2022 12:32:43 PM	04-Asymptotic-Analysis-ii.pdf	https://comp550.cs.unc.edu/static/slides/04-Asymptotic-Analysis-ii.pdf?61eeb9c3
+1/28/2022 12:32:57 PM	05-Recurrence-Relations-Divide-and-Conquer-A-Substitution.pdf	https://comp550.cs.unc.edu/static/slides/05-Recurrence-Relations-Divide-and-Conquer-A-Substitution.pdf?61f2e1a4
+1/28/2022 12:37:19 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/28/2022 12:37:50 PM	Submissions	https://comp550.cs.unc.edu/view/worksheet-04-C-asymptotic/8994
+1/28/2022 12:50:29 PM	01 Homework	https://comp550.cs.unc.edu/homeworks/homework-01-summations
+1/28/2022 12:52:30 PM	SOE_Technology Services WS - Planner	https://tasks.office.com/admin.live.unc.edu/Home/PlanViews/UnEKyadUjkGh-2IhMdfuoGQADFjw/UPFPYvM7zESKzPWxa0RlE2QADqn5?Type=AssignedTo&Channel=OdspNotify&CreatedTime=637789877988212189
+1/28/2022 12:53:52 PM	UNC CS Spring 2022 Tech Career Fair (Virtual) | Handshake	https://app.joinhandshake.com/stu/events/924711
+1/28/2022 12:53:58 PM	UNC CS Spring 2022 Tech Career Fair (Virtual) | Handshake	https://app.joinhandshake.com/conversations?ref=navbar
+1/28/2022 14:53:32 PM	ConnectCarolina	https://connectcarolina.unc.edu/
+1/28/2022 14:54:20 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/28/2022 14:53:34 PM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+1/28/2022 14:53:37 PM	sso.unc.edu	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+1/28/2022 14:53:34 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+1/28/2022 14:53:34 PM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 14:53:35 PM	An error has occurred.	https://cs.cc.unc.edu/
+1/28/2022 14:53:35 PM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 14:53:35 PM		https://fs.cc.unc.edu/
+1/28/2022 14:53:35 PM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 14:53:36 PM	An error has occurred.	https://hc.cc.unc.edu/
+1/28/2022 14:53:36 PM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 14:53:36 PM	An error has occurred.	https://csrpt.cc.unc.edu/
+1/28/2022 14:53:36 PM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 14:53:37 PM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+1/28/2022 14:53:37 PM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+1/28/2022 14:53:37 PM	Self Service	https://hcrpt.cc.unc.edu/
+1/28/2022 14:53:42 PM	Self Service	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+1/28/2022 14:54:20 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/sakai-login-tool/container
+1/28/2022 14:53:50 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+1/28/2022 14:53:50 PM		https://unctim.unc.edu/wfc/logon
+1/28/2022 14:53:50 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+1/28/2022 14:53:50 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+1/28/2022 14:53:51 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+1/28/2022 12:57:56 PM	UNC-Chapel Hill Single Sign-On	https://unctim.unc.edu/wfc/htmlnavigator/logon
+1/28/2022 14:54:23 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/28/2022 14:54:27 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/110e5f66-f042-42e5-b064-af03f3ae1a05
+1/28/2022 14:54:34 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa
+1/28/2022 14:54:37 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?panel=Main
+1/28/2022 12:57:56 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLRTsIwFP2Vpe%2Bso26yNNsSlAdJUAgbmvhiStdCk62dvR36%2BZaBig%2BSNGmae%2B45557bDFjbkI5Oe7fXa%2FHeC3DBZ9tooKdKjnqrqWGggGrWCqCO03L6uKAkjGhnjTPcNCiYAgjrlNH3RkPfClsKe1BcbNaLHO2d64Bi3GvuVBv6KxR1jz8kx43ZGf2i3H4zn6Fg5uWVZkee3y4A89Oi6g57UakagY8uCF6LWlnBHS7LJQrmsxy9STmRLN7GkseTiMgoSaWM0%2BQ2rZmU2zTyMIBezDU4pl2OSETIKBqPSFqNJzTxJwmT5OYVBavzfHdK10rvroexPYGAPlTVarRaltVAcFC1sE8efS0HFDwLC8PYngoV2ZA%2BHXzay4Vct8C%2Bt4CK%2F7UyfElenJ9%2F%2F0DxBQ%3D%3D&RelayState=
+1/28/2022 14:53:50 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVJBbsIwEPxK5DsxcQARK4lEy6FItCASWqmXytgOWErs1GvTPr8h0JYeyslaeXZmdnZTYE1NWjrz7qA38t1LcMFnU2ug558MeaupYaCAatZIoI7TYva4pCQc0tYaZ7ipUTADkNYpo%2B%2BNBt9IW0h7VFxuN8sMHZxrgWLsNXeqCbsnlMLjj4rj2uyNflHusF3MUTDv5JVmJ57fLgDz06JEizvRStUSn1wQvJFCWckdLooVChbzDL1NWBxzFjExniSc7BLOeDUR04qwmEVxMupgAF4uNDimXYbIkJDBMBqQaRkldBzTURLGU%2FKKgvVlvjulhdL722HsziCgD2W5HqxXRdkTHJWQ9qlD38oBBc%2FSQj92R4XytE%2Bf9j7t9UJuW2DfW0D5%2F1opvibPL%2BXfG8i%2FAA%3D%3D&RelayState=
+1/28/2022 14:54:20 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbT4MwGIb%2FCun9VqjDsWaQ4HbhkunIQC%2B8MaUUaSwt9ise%2Fr1sTDMTs%2Bu%2Bh75PviWwVnU07V2j9%2BKtF%2BC8z1ZpoMeHGPVWU8NAAtWsFUAdp3l6t6Vk6tPOGme4UchLAYR10uiV0dC3wubCvksuHvbbGDXOdUAxBvbK5LTXfCqqHueNLEujhGumAAYfQgnOdnmBvPXwC6nZIe%2FMDebXK6sOD%2BW1VOJk3ItKWsEdzvMd8jbrGD0H0dWM%2BHPOfB5e1zM2D9giquuQlJHP5yEbZAC92GhwTLsYEZ%2BQiR9MSFQECxrOaLB4Ql522ngjdSX1y2Ug5SgCelsU2WQc8ygsHIcMApQsD1jpsdiegb4cy37oouR%2FlvDLconPCsa2jt4PiZt1ZpTkX16qlPlYWcGciFGAcDJa%2Ft5A8g0%3D&RelayState=ss%3Amem%3A121dcabf439a4097260adcc2d7b8a867e5e997c5ae7e5d8654a227c783329ce0&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=kxRAOk8MHYb9FH5shzErGzjWTa%2FszFz1Itc0jLjxkT8iE8VHoHeG4yN2riYpcrhtFhizSi3Rb4%2FoinsrXRUdS%2Bl6VDPbEyDiBYOKcmMCzdI1F5%2FNiWKWwJNTqbOF4IAFiUqFRdMt6uhHYifoX8Xx8KsIGkwvppiJX4SLLEMuv0mfbA8AIEtOliDSkd4qxGA35PDOmVK9IKGUwrQIPL1IidQcE6M7%2FZk1wk4h6Eg7BLhLgKlFQCPWQwAuvtHBN3b9kNLd1u2ytSOFTl%2FXrFQU33LiesQTjHALWdtex6sNb9YflfTbTP1blgdycP%2BccxSDjVIZuD311XgKLBY2SGRDQA%3D%3D
+1/28/2022 14:54:37 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?itemReference=/announcement/msg/f842e8d4-a8cd-475f-8d91-1033d87dc618/main/b551a43f-cf7e-4450-a7a5-cb472c3503ea&sakai_action=doShowmetadata
+1/28/2022 15:01:50 PM	COMP 301 (4 unread)	https://piazza.com/class/koslinq2ke12nl
+1/28/2022 15:02:50 PM	COMP 311 (7 unread)	https://piazza.com/class/ky1qprgqfsd1j
+1/28/2022 15:04:24 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=49
+1/28/2022 15:04:28 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=108
+1/28/2022 15:04:48 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=111
+1/28/2022 15:04:45 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=110
+1/28/2022 15:02:54 PM	COMP 311 (5 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=92
+1/28/2022 15:02:55 PM	COMP 311 (4 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=86
+1/28/2022 15:04:04 PM	COMP 311 (3 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=82
+1/28/2022 15:04:14 PM	COMP 311 (2 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=81
+1/28/2022 15:04:19 PM	COMP 311 (1 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=77
+1/28/2022 15:04:20 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=74
+1/28/2022 20:44:22 PM	Administration | Economics Department	https://econ.unc.edu/people/administration/
+1/28/2022 20:44:15 PM	Michelle Sheran-Andrews | Economics Department	https://econ.unc.edu/directory/mesheran/
+1/28/2022 20:44:54 PM	Administration | Economics Department	https://econ.unc.edu/people/administration/
+1/28/2022 20:44:52 PM	Faculty Profiles | Economics Department	https://econ.unc.edu/people/faculty/
+1/28/2022 20:44:56 PM	Michelle Sheran-Andrews | Economics Department	https://econ.unc.edu/directory/mesheran/
+1/28/2022 20:45:25 PM	Covenant Faculty and Staff Mentors - Office of Scholarships and Student Aid	https://studentaid.unc.edu/covenant-faculty-and-staff-mentors/
+1/28/2022 20:59:17 PM	Undergraduate Research | Computer Science	https://cs.unc.edu/undergraduate/undergraduate-research/
+1/28/2022 20:59:06 PM	Honors Theses | Computer Science	https://cs.unc.edu/news/publications/honors-theses/
+1/28/2022 20:59:37 PM	Undergraduate Research | Computer Science	https://cs.unc.edu/undergraduate/undergraduate-research/
+1/28/2022 20:59:55 PM	Honors Theses | Computer Science	https://cs.unc.edu/news/publications/honors-theses/
+1/28/2022 21:00:04 PM	Learning Contracts and Internships | Computer Science	https://cs.unc.edu/undergraduate/learning-contracts/
+1/28/2022 21:00:13 PM	Learning Contracts and Internships | Computer Science	https://cs.unc.edu/undergraduate/learning-contracts/#honors
+1/28/2022 21:04:37 PM	Computer Science Major, B.A. < University of North Carolina at Chapel Hill	https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-ba/
+1/28/2022 21:06:15 PM	Computer Science Major, B.A. < University of North Carolina at Chapel Hill	https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-ba/#requirementstext
+1/28/2022 21:05:34 PM	Computer Science Major, B.A. < University of North Carolina at Chapel Hill	https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-ba/#text
+1/28/2022 21:06:31 PM	Learning Contracts and Internships | Computer Science	https://cs.unc.edu/undergraduate/learning-contracts/
+1/28/2022 21:06:20 PM	Learning Contracts and Internships | Computer Science	https://cs.unc.edu/undergraduate/learning-contracts/#honors
+1/28/2022 21:05:37 PM	Computer Science Major, B.A. < University of North Carolina at Chapel Hill	https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-ba/#opportunitiestext
+1/28/2022 21:05:38 PM	Computer Science Major, B.A. < University of North Carolina at Chapel Hill	https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-ba/#sampleplantext
+1/28/2022 21:06:37 PM	COMP 691H - Honors Thesis in Computer Science at the University of North Carolina at Chapel Hill | Coursicle UNC	https://www.coursicle.com/unc/courses/COMP/691H/
+1/28/2022 21:07:10 PM	Honors Thesis for Computer Science : uofm	https://www.reddit.com/r/uofm/comments/jrbdfm/honors_thesis_for_computer_science/
+1/28/2022 21:07:30 PM	Microsoft Word - cs_lsa_honors_info_app_13_14.docx	https://cse.engin.umich.edu/wp-content/uploads/sites/3/2019/05/cslsa_honors_info_app.pdf
+1/28/2022 21:09:15 PM	Computer Science Graduate School Questions : UNC	https://www.reddit.com/r/UNC/comments/pitp03/computer_science_graduate_school_questions/
+1/28/2022 21:13:01 PM	Honors Theses | Computer Science	https://cs.unc.edu/news/publications/honors-theses/
+1/28/2022 21:10:13 PM	Getting a Job with a Computer Science BA and no internship experience : UNC	https://www.reddit.com/r/UNC/comments/pfclas/getting_a_job_with_a_computer_science_ba_and_no/
+1/28/2022 21:10:24 PM	Questions regarding UNC Computer Science Master's Program : UNC	https://www.reddit.com/r/UNC/comments/puxyl5/questions_regarding_unc_computer_science_masters/
+1/28/2022 21:13:10 PM	Index Catalog // Carolina Digital Repository	https://cdr.lib.unc.edu/catalog?f%5Baffiliation_label_sim%5D%5B%5D=Department+of+Computer+Science&f%5Bresource_type_sim%5D%5B%5D=Honors+Thesis&locale=en&sort=title_sort_ssi+asc&view=list
+1/28/2022 21:14:12 PM	Index Catalog // Carolina Digital Repository	https://cdr.lib.unc.edu/catalog?f%5Baffiliation_label_sim%5D%5B%5D=Department+of+Computer+Science&f%5Bresource_type_sim%5D%5B%5D=Honors+Thesis&locale=en&sort=date_issued_sort_ssi+desc&view=list
+1/28/2022 21:14:02 PM	Index Catalog // Carolina Digital Repository	https://cdr.lib.unc.edu/catalog?f%5Bresource_type_sim%5D%5B%5D=Honors+Thesis&locale=en
+1/28/2022 21:17:37 PM	Index Catalog // Carolina Digital Repository	https://cdr.lib.unc.edu/catalog?f%5Baffiliation_label_sim%5D%5B%5D=Department+of+Computer+Science&f%5Bresource_type_sim%5D%5B%5D=Honors+Thesis&locale=en&page=2&sort=date_issued_sort_ssi+desc&view=list
+1/28/2022 21:17:49 PM	Index Catalog // Carolina Digital Repository	https://cdr.lib.unc.edu/catalog?f%5Baffiliation_label_sim%5D%5B%5D=Department+of+Computer+Science&f%5Bresource_type_sim%5D%5B%5D=Honors+Thesis&locale=en&page=3&sort=date_issued_sort_ssi+desc&view=list
+1/28/2022 21:18:05 PM	Index Catalog // Carolina Digital Repository	https://cdr.lib.unc.edu/catalog?f%5Baffiliation_label_sim%5D%5B%5D=Department+of+Computer+Science&f%5Bresource_type_sim%5D%5B%5D=Honors+Thesis&locale=en&page=4&sort=date_issued_sort_ssi+desc&view=list
+1/28/2022 21:19:01 PM	Covenant Career Accelerator Program - Office of Scholarships and Student Aid	https://studentaid.unc.edu/career-accelerator-program/
+1/28/2022 21:20:24 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+1/29/2022 14:51:50 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=113
+1/29/2022 14:55:20 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/29/2022 14:55:20 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/29/2022 14:59:06 PM	GitHub	https://github.com/
+1/29/2022 14:55:44 PM	GitHub Classroom	https://classroom.github.com/login
+1/29/2022 14:55:31 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/29/2022 14:55:32 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/110e5f66-f042-42e5-b064-af03f3ae1a05
+1/29/2022 14:55:37 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Assignments	https://sakai.unc.edu/portal/directtool/00105144-9d73-4863-9fdf-7a9a6d5d43d5/
+1/29/2022 14:55:39 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Assignments	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/00105144-9d73-4863-9fdf-7a9a6d5d43d5?panel=Main
+1/29/2022 14:55:18 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9FOoh0ggJ04uZuM0I28VulgKfo1lpWb%2Byw78fijMuWUwv%2Bx76PukCRaNannau1jt47wCd99Uojfx4EZPOam4ESuRaNIDclTxL7zac%2BQFvrXGmNIp4KSJYJ41eGo1dAzYD%2ByFLeNxtYlI71yKnFMWbkH6nSx%2Bqjma1LAqjwNU%2BoqGHUEa3D1lOvFX%2FCqnFIe%2FCjebslVVL%2B%2FK9VHAy7qCSFkpHs%2ByBeOtVTF5CVgQw7o%2BACZvPYQ9sMq5mURUyFhZB1MsQO1hrdEK7mLCAsVEQjliUhxGfTnk4eybe9rTxRupK6tfrQIpBhPw2z7ejYcwTWDwO6QUkWRyw8mOxvQB9PVb80iXJ%2FyzxzHJBLwqGtpbf94nr1dYoWX57qVLmc2lBOIhJSGgyWP7%2BgeQH&RelayState=ss%3Amem%3A157267bba462411958a77e4202ec13ee110fb591e14c164e1f5f00f5e32bf596&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=CmuvORZXjm7Hohjozg2LNkJQeHjwPto1Y0MXSnr9xBGfzNuDVl3iy9S9weWEIGrAL%2BYWvi3Kopt00mU5%2Ffqsruseo8dCBOXYWIOHvTPU9cnfSoXwX3OOSKRTumTq5EPXiMJSxeZIF0J7PbHTMRug6UjiMTKzseXTam583WAJmoTpsdpm6KQcGJJ9L9qu1cmk41Hj2k3sEOqDjpYBC8dncLukhxBLcN7D1z1S3ci%2BsQkT6f36duWQSLFRhZNT5PR8OlRsO2sWjjvUdlkcnDQ43SErMU9W1bkc2EC%2FmZR3yXKvir6ZjL8colEgTnDYVB8LiHeO1Kj2A37Gf%2BkFFo0apg%3D%3D
+1/29/2022 14:55:39 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Assignments	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/00105144-9d73-4863-9fdf-7a9a6d5d43d5?assignmentReference=/assignment/a/f842e8d4-a8cd-475f-8d91-1033d87dc618/7eb11a9b-c9a1-4374-9a18-2a51e14fe17a&sakai_action=doView_submission
+1/29/2022 14:55:44 PM	GitHub Classroom	https://classroom.github.com/a/FgmxwNRK
+1/29/2022 14:55:50 PM	GitHub Classroom	https://classroom.github.com/assignment-invitations/7b9729b1424aecd7ecd2916c48531c4d/status
+1/29/2022 14:55:52 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+1/29/2022 14:59:33 PM	Cloning a repository from GitHub to GitHub Desktop - GitHub Docs	https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop
+1/29/2022 15:12:06 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+1/29/2022 15:17:33 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+1/29/2022 15:26:59 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+1/29/2022 17:20:13 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+1/29/2022 17:21:45 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/29/2022 17:21:49 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/29/2022 17:21:52 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/110e5f66-f042-42e5-b064-af03f3ae1a05
+1/29/2022 17:22:15 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa
+1/29/2022 17:22:17 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?panel=Main
+1/29/2022 17:21:44 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9VBoEbYSE6cVM3CTCdrGbpcDZaAYt6yn7%2BPdDccYli9d9P%2Fo%2BOUsUbdPxpLe12sN7D2idr7ZRyI8PEemN4lqgRK5EC8htybPkbsuZO%2BWd0VaXuiFOggjGSq1WWmHfgsnAfMgSHvbbiNTWdsgpRfEmpNur0oWqp1kti0I3YGsXUdNDKKPpLsuJsx5%2BIZU45F24UZ%2B9suroUP4iGzgZ91BJA6WlWbYjzmYdkecAxCIsgnnBIJiHvh94QeHPFoFXhrPQA2%2BQIfawUWiFshFhU8YmU2%2FCFjljnHnc956Ik5423khVSfV6HUgxipDf5nk6Gcc8gsHjkEFA4uUBKz8WmwvQ12PFL10S%2F88SzyyX9KJgbOv4%2FZC4Wae6keW3kzSN%2FlwZEBYi4hEaj5a%2FNxD%2FAA%3D%3D&RelayState=ss%3Amem%3Acb01dfe96a6c2db7dfcb489ba64ffe5fbb2ebb0c63daf754e647c78eb8868285&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=uD2Mi5vw6Y1g3pGetHvkD0pJebSNM9eF3ubs5qKUnqylLL18cA7%2BPws02DrcdC1pOfIC3crFx9pjEXjSChXq9FFA9ZrjUWsuQ7BciMX8dWqVcsuPrvGf7QdHD3GBBZHrjhI9vUswOPBf5IaffxLYItUR%2Fsc6y3KlFQp0GXdTDMzNfiygtNk9mpYaUnnL9IC7V5vnXdHo9HRZDnfAMQjI1rSdHTbPwiVly%2BlEZH%2B7MvsZHEB8tdJ7TbwEbEWvWgV54w%2FCoyc5jx26YQDi0%2FQTXWxcURS%2FD2qWIylBtCSTQ7dITwGPWjUhWOVsElfHT55rboXQDUC6BeIC7C5t8AktSw%3D%3D
+1/29/2022 17:45:24 PM	COMP 301 (4 unread)	https://piazza.com/class/koslinq2ke12nl
+1/29/2022 17:45:29 PM	COMP 311 (1 unread)	https://piazza.com/class/ky1qprgqfsd1j
+1/29/2022 17:46:03 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=108
+1/29/2022 17:45:57 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=111
+1/29/2022 17:46:00 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=110
+1/29/2022 17:45:53 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=113
+1/29/2022 17:45:51 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=114
+1/29/2022 18:18:18 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=111
+1/29/2022 18:25:10 PM	COMP 550 (16 unread)	https://piazza.com/class/kx51w0xmxl25pq
+1/29/2022 18:25:12 PM	COMP 550 (15 unread)	https://piazza.com/class/kx51w0xmxl25pq?cid=69
+1/29/2022 18:26:57 PM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1TCwvb6N_IUzpbgBEQnXmRCxKbp-3fc0Q
+1/29/2022 18:30:27 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 18:28:12 PM	untitled	https://www.baylor.edu/content/services/document.php/65654.pdf
+1/29/2022 21:19:55 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+1/29/2022 21:22:23 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 21:27:07 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 21:29:40 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 21:37:40 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 21:40:26 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 21:46:44 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 21:53:14 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:06:42 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:11:38 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:17:26 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:22:47 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:26:00 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:31:54 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:37:40 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:41:07 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:46:59 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/29/2022 22:51:40 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/30/2022 10:16:33 AM	COMP 301 (4 unread)	https://piazza.com/class/koslinq2ke12nl
+1/30/2022 10:16:40 AM	COMP 550 (15 unread)	https://piazza.com/class/kx51w0xmxl25pq
+1/30/2022 10:16:44 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j
+1/30/2022 10:16:53 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=108
+1/30/2022 10:16:50 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=111
+1/30/2022 10:18:23 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=110
+1/30/2022 10:18:22 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=92
+1/29/2022 22:53:17 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/30/2022 10:18:53 AM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/30/2022 10:18:53 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/30/2022 10:18:58 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/30/2022 10:19:06 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa
+1/30/2022 10:19:08 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?panel=Main
+1/30/2022 10:31:45 AM	Left shift operator in C - Stack Overflow	https://stackoverflow.com/questions/15242788/left-shift-operator-in-c/15242958
+1/30/2022 10:41:56 AM	COMP 301 (4 unread)	https://piazza.com/class/koslinq2ke12nl
+1/30/2022 10:44:48 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j
+1/30/2022 10:45:02 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=111
+1/30/2022 10:45:01 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=113
+1/30/2022 10:45:05 AM	COMP 311 (1 unread)	https://piazza.com/class/ky1qprgqfsd1j?cid=114
+1/30/2022 10:49:17 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=115
+1/30/2022 16:38:48 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/30/2022 16:38:47 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/30/2022 16:36:04 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+1/30/2022 16:36:06 PM	COMP 311 (3 unread)	https://piazza.com/class/ky1qprgqfsd1j
+1/30/2022 16:38:08 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=115
+1/30/2022 16:38:07 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=116
+1/30/2022 16:38:06 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=117
+1/30/2022 16:38:02 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=118
+1/30/2022 16:38:40 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT4MwFIb%2FCun9VihTtmaQ4HbhkunIQC%2B8MQUO0ggt9hQ%2F%2Fr1sTDMTs%2Bu%2BH32fnCWKtul43Nta7eGtB7TOZ9so5MeHkPRGcS1QIleiBeS24Gl8t%2BVs6vLOaKsL3RAnRgRjpVYrrbBvwaRg3mUBD%2FttSGprO%2BSUongVctqrYgplT9Na5rluwNZTRE0PoYwmuzQjznr4hVTikHfmRv3rlWVHh%2FJKNnAy7qGUBgpL03RHnM06JM9BXlzDVeCzalGwKg%2FYwvdn%2BRw8EMKbVf4gQ%2Bxho9AKZUPCXMYmrjfx3Yx53J9zP3giTnLaeCNVKdXLZSD5KEJ%2Bm2XJZBzzCAaPQwYBiZYHrPxYbM5AX44VP3RJ9D9L%2FGW5pGcFY1vH74fEzTrRjSy%2BnLhp9MfKgLAQEo%2FQaLT8vYHoGw%3D%3D&RelayState=ss%3Amem%3A16f6cd431be66c30a6c1497dda1060a81f499d33a1e4459de5759a136bfced4a&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=mAvHLQ2%2F44jzGIiT9QavUbhN2ctr9Rn5hHAa6IWwm%2FolgLhK8HIlXjY72rKEaSGiG1NDxEPIns4G2oH4RZU14gdxXZRHW3CwEhGxSVJHSZmq5z8YtrP2NSQ3%2FF3UTVt%2FobWFffb067cYOWb2GH36z%2FBONtNFE6LZyz0nU4eiCjVR2OkqMlBsqjFM4Zn%2FTZmRYuccqHOx%2B0a%2BvP%2F37UE1czNfDS0BSlyyfszoMRnuDWK%2F08sez%2FDN1r4iOp%2FmGjGUQEu72ncAxY1V33fRSD6X%2FEwogjHvbYr6%2BSdRpop1UBJfXrwGssWkScyxqku7IxxATzwii2w1fcmT8f40tp1%2Fhg%3D%3D
+1/30/2022 17:14:59 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/30/2022 17:16:08 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9
+1/30/2022 17:14:17 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=110
+1/30/2022 17:13:51 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=113
+1/30/2022 17:16:08 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool-reset/52bae27b-4a2a-4fca-893f-7d85b0178bd9
+1/30/2022 17:19:46 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9/jsf/delivery/deliverAssessment
+1/30/2022 17:24:45 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9/jsf/delivery/deliverAssessment
+1/30/2022 17:27:55 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9/jsf/delivery/deliverAssessment
+1/30/2022 17:31:48 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9/jsf/delivery/deliverAssessment
+1/30/2022 17:37:59 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9
+1/30/2022 17:37:56 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9/jsf/delivery/deliverAssessment
+1/30/2022 17:37:58 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9/jsf/delivery/confirmSubmit
+1/30/2022 17:37:59 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/page/56efd9c3-94d5-4475-b251-a78b37218ed0
+1/30/2022 17:38:09 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Gradebook	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/f076853e-c091-488c-898b-ae9a71d391bd
+1/30/2022 17:41:16 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=117
+1/30/2022 17:41:17 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=118
+1/30/2022 21:44:43 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+1/30/2022 21:44:49 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=117
+1/30/2022 21:44:50 PM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=118
+1/30/2022 22:30:53 PM	Best Computer Science Programs - Top Science Schools - US News Rankings	https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings
+1/30/2022 22:31:38 PM	Top 50 Master's in Computer Science Degree Programs (Updated) - Computer Science Degree Hub	https://www.computersciencedegreehub.com/masters-computer-science/
+1/30/2022 22:34:55 PM	Graduate Admissions | Computer Science and Engineering at Michigan	https://cse.engin.umich.edu/academics/graduate/admissions/
+1/30/2022 22:36:10 PM	Master	https://cse.engin.umich.edu/academics/graduate/masters-in-cse/
+1/30/2022 22:36:30 PM	CSE Graduate Program Guide - Google Docs	https://docs.google.com/document/d/18vDSki737f3dS4GxHjBG8qYPE7MczUKC0mOKvJNghos/edit?usp=sharing
+1/30/2022 22:36:30 PM	CSE Graduate Program Guide - Google Docs	https://docs.google.com/document/d/18vDSki737f3dS4GxHjBG8qYPE7MczUKC0mOKvJNghos/edit
+1/30/2022 22:38:02 PM	Funding | Computer Science and Engineering at Michigan	https://cse.engin.umich.edu/academics/graduate/funding/
+1/30/2022 22:39:05 PM	Computer Science - Berkeley Graduate Division	https://grad.berkeley.edu/program/computer-science/
+1/30/2022 22:40:00 PM	How to Apply	https://gradadm.seas.upenn.edu/how-to-apply/
+1/30/2022 22:40:03 PM	How to Apply	https://gradadm.seas.upenn.edu/how-to-apply/#masters
+1/30/2022 22:42:01 PM	Master of Science in Computer Science | College of Computing	https://www.cc.gatech.edu/degree-programs/master-science-computer-science
+1/30/2022 22:43:27 PM	Admissions & Financial Aid | College of Computing	https://prod-cc.cc.gatech.edu/admissions-financial-aid
+1/30/2022 22:44:01 PM	The Master of Science | Computer Science	https://cpsc.yale.edu/academics/graduate-program/master-science
+1/30/2022 22:45:04 PM	The Master of Science | Computer Science	https://cpsc.yale.edu/academics/graduate-program/master-science
+1/30/2022 22:44:36 PM	General Track | Computer Science	https://cpsc.yale.edu/general-track
+1/31/2022 08:48:47 AM	Carolina Economics Club - Heel Life	https://heellife.unc.edu/
+1/31/2022 08:49:03 AM	Carolina Economics Club - Heel Life	https://heellife.unc.edu/organization/cec
+1/31/2022 09:01:55 AM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1kb34wFyANejqR5Yl473GmoBz9dGy5-NW
+1/31/2022 09:01:25 AM	Yammer	https://www.yammer.com/admin.live.unc.edu/
+1/31/2022 09:01:30 AM	Yammer - Feed	https://web.yammer.com/main/admin.live.unc.edu/
+1/31/2022 09:02:03 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:07:33 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:12:18 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:18:03 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:22:22 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:27:01 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:32:32 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:37:43 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:42:48 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:47:05 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 09:52:02 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 10:05:13 AM	ConnectCarolina	https://connectcarolina.unc.edu/
+1/31/2022 10:05:19 AM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+1/31/2022 10:05:21 AM	sso.unc.edu	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+1/31/2022 10:05:18 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/POST/SSO?execution=e1s1
+1/31/2022 10:05:19 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+1/31/2022 10:05:19 AM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 10:05:19 AM	An error has occurred.	https://cs.cc.unc.edu/
+1/31/2022 10:05:19 AM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 10:05:20 AM		https://fs.cc.unc.edu/
+1/31/2022 10:05:20 AM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 10:05:20 AM	An error has occurred.	https://hc.cc.unc.edu/
+1/31/2022 10:05:20 AM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 10:05:20 AM	An error has occurred.	https://csrpt.cc.unc.edu/
+1/31/2022 10:05:21 AM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 10:05:21 AM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+1/31/2022 10:05:21 AM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 10:05:21 AM	Self Service	https://hcrpt.cc.unc.edu/
+1/31/2022 10:05:23 AM	Self Service	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+1/31/2022 10:05:31 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+1/31/2022 10:05:31 AM		https://unctim.unc.edu/wfc/logon
+1/31/2022 10:05:31 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+1/31/2022 10:05:31 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+1/31/2022 10:05:32 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+1/31/2022 09:53:20 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 10:05:31 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLLbsIwEPyVyHfixDxjkUi0HIpECyKhlXqpjLMBS4mdeh3az28ItKWHcrJWnp2Znd0piqpkNZ817qA38N4AOu%2BzKjXy809MGqu5EaiQa1EBcid5OntccuYHvLbGGWlK4s0QwTpl9L3R2FRgU7BHJWG7Wcbk4FyNnNJGS6cqv318yBv6UUhamr3RL8odtos58eatvNLixPPbhWh%2BWlRe01a0UCXQkwtGN5ArC9LRNF0RbzGPyVs0yKNBIaBgu4mUIQShGAfD0UhMIlGIPGxhiA0sNDqhXUxYwFgvCHv9MAuHPBhyNvbHrP9KvPVlvjulc6X3t8PYnUHIH7Js3Vuv0qwjOKoc7FOLvpUD8Z7BYjd2S0WSaZc%2B73za64XctiC%2Bt0CS%2F7Wm9Jo8uZR%2FbyD5Ag%3D%3D&RelayState=
+1/31/2022 10:14:59 AM	01/31 Lecture - Google Docs	https://docs.google.com/document/d/1vNaF6rNk--YDrfxV7d5ymQeMnXVyr7x5gBvrqdWlV2I/edit
+1/31/2022 10:24:18 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/31/2022 10:24:11 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/31/2022 10:23:59 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZLLcoIwFIZfhclewkVqzQgzVBd1xlZGaBfddGI4lMxAQnNCL29fFGvtxnX%2By%2Fm%2FyQJ523Qs7W2tdvDeA1rnq20UsuNDTHqjmOYokSneAjIrWJ4%2BbFjgeqwz2mqhG%2BKkiGCs1GqpFfYtmBzMhxTwtNvEpLa2Q0ap0G0XRZ4r0O2VcKHsaV7L%2FV43YGsXUdNDckCzbV4QZzWcIhU%2FhP5FDKKzV5YdHS6oZAMn4w5KaUBYmudb4qxXMXkNwmnp306j%2Bc0M5tG8qnhUhiX3w1nl%2BzMxHWSIPawVWq5sTAIvCCaePwn9wo9YELIoeiFOdhp6J1Up1dt1KvtRhOy%2BKLLJOOYZDB6HDAKSLA5s2bHYXNC%2BHst%2FEZPkClA8A13Qi5axsmOPQ%2Bx6lelGim8nbRr9uTTALcTEJzQZLf9%2FQ%2FID&RelayState=ss%3Amem%3A03c5c296e19bc2cb87d65acd1472d87e67e786d0023abd3fdfe050f322a13711&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=iSA%2BeH37FHcq4GVajKJSc8vAqSMMJTtEZfZARk8NvSjKW1gT%2FINiq3TOOToDCIuU9%2F0T4WQcro2Xb7Lux3Yp8j%2FE0aOr7FVq4qrkVtOaAJQG9ZFYMVrA%2BsoFculuZYC%2FHxWa%2FtNqvJlC3jWxwNfATbHLnVKGyexSS744tFJYeLD3SNlipOWxGug6WPsg5KOOHOGWIqHRgyir3TlDyRjkMPiLvahsreKWnmmLSDsHmS8HJB7I2NN3Dp2n2rBHy%2BXyBBp2u7yajodjky2Cmw1dnjEptw63jTKUah7MtQgjcAfCc3FQJm8p0pqCcLTKycMbXgcUav3IIRfbpFQqWQV541128jxEb2IkT%2F8XI8qCQI0%2FEaUlySEgVfRyMcdyyfLmdNsWN0%2FXR30AWYO61CQMrL5SsgUwgQ5Ac1tGxmBnbRpjnOJzyFr%2BVr%2BWyFMFnoYYRjtvZKkDqKnHiQa71NwBrvUACPDKNa4CTxwdCfePrrA2cMoySh8Jik4x8DoIDCpe
+1/31/2022 10:26:19 AM	Getting Help	https://comp550.cs.unc.edu/syllabi/help
+1/31/2022 10:26:18 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/31/2022 10:25:07 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/31/2022 10:25:10 AM	01 Homework	https://comp550.cs.unc.edu/homeworks/homework-01-summations
+1/31/2022 10:28:43 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 10:27:29 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit?usp=drive_web&ouid=100407440431679426204
+1/31/2022 10:32:57 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 10:38:03 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 10:39:43 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 10:53:26 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 10:58:48 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 10:55:33 AM	Paving the way | UNC-Chapel Hill	https://www.unc.edu/story/black-history-month-2020/
+1/31/2022 11:03:20 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 11:08:49 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 11:14:59 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 11:23:46 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 11:25:55 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 11:27:56 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=115
+1/31/2022 11:27:54 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=116
+1/31/2022 11:27:16 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=117
+1/31/2022 11:27:37 AM	COMP 311	https://piazza.com/class/ky1qprgqfsd1j?cid=118
+1/31/2022 11:32:51 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 11:43:31 AM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 12:10:02 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/31/2022 12:09:57 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/31/2022 12:18:08 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 12:22:31 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 12:34:19 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 12:36:32 PM	ConnectCarolina	https://connectcarolina.unc.edu/
+1/31/2022 12:36:34 PM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+1/31/2022 12:36:36 PM	sso.unc.edu	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+1/31/2022 12:36:34 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+1/31/2022 12:36:34 PM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 12:36:34 PM	An error has occurred.	https://cs.cc.unc.edu/
+1/31/2022 12:36:34 PM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 12:36:35 PM		https://fs.cc.unc.edu/
+1/31/2022 12:36:35 PM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 12:36:35 PM	An error has occurred.	https://hc.cc.unc.edu/
+1/31/2022 12:36:35 PM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 12:36:36 PM	An error has occurred.	https://csrpt.cc.unc.edu/
+1/31/2022 12:36:36 PM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 12:36:36 PM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+1/31/2022 12:36:36 PM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+1/31/2022 12:36:37 PM	Self Service	https://hcrpt.cc.unc.edu/
+1/31/2022 12:36:39 PM	Self Service	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+1/31/2022 12:36:53 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+1/31/2022 12:36:53 PM		https://unctim.unc.edu/wfc/logon
+1/31/2022 12:36:53 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+1/31/2022 12:36:53 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+1/31/2022 12:36:54 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+1/31/2022 12:35:10 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 12:36:53 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLBToNAEP0VsveysEiRTSFBe7BJtU2hmngxdJm2m8Au7izVz5fSqvVgT5vJvnnvzZuZYNnUrOVZZ%2FdqBe8doHU%2Bm1ohP%2F0kpDOK6xIlclU2gNwKnmePc85cj7dGWy10TZwMEYyVWt1rhV0DJgdzkALWq3lC9ta2yCntlLCycfvHhaqjH1tBa73T6kXa%2FXo2Jc60l5eqPPL8diHqnxZZtbQX3coa6NEFoyuopAFhaZ4viDObJuQNwg2DeFyFfhkJL9qGUehFIozgNghZ4MU9DLGDmUJbKpsQ5jE28vxR4Bd%2BxIMxv4ndmAWvxFme57uTqpJqdz2MzQmE%2FKEolqPlIi8GgoOswDz16Gs5EOcZDA5j91QknQzp88GnuVzIdQvl9xZI%2Br%2FWhF6Sp%2Bfy7w2kXw%3D%3D&RelayState=
+1/31/2022 14:20:23 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/31/2022 14:19:48 PM	Courses - Course.Care	https://course.care/courses
+1/31/2022 14:20:23 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+1/31/2022 14:20:26 PM	01 Homework	https://comp550.cs.unc.edu/homeworks/homework-01-summations
+1/31/2022 14:20:20 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT4MwFIb%2FCun9KFRx0gwS3C5cMt0y0AtvTCln0gRa7Cl%2B%2FHvZmHPe7Lrvx3mfdIaibTqe9a7WW3jvAZ331TYa%2BeEhIb3V3AhUyLVoAbmTPM8eVpz5Ae%2BscUaahngZIlinjJ4bjX0LNgf7oSQ8bVcJqZ3rkFMqTdtFUeBL9Hstfah6mteqLE0DrvYRDd0nM7pZ5wXxFsMpSot96F%2FEIDp5VdXR4YKdauBo3EKlLEhH83xNvOUiIa%2BViEMm5G1YTWNWlVEkS9gxiOPrKIrZTTTIEHtYanRCu4SwgLFJEE6uwiKMOQt4OH0h3uY49E7pSum3y1TKUYT8vig2k3HMM1g8DBkEJJ3t2fJDsT2jfTlW%2FCIm6QWgeAI6o2ctY2XHH4fY5WJjGiW%2FvaxpzOfcgnCQkJDQdLT8%2Fw3pDw%3D%3D&RelayState=ss%3Amem%3Ae1e33e8c930b8b8c5a9144bec36810ec7e3d4042ff73c994d483bc6239c41ed8&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=Frak5F1PNCZXB%2B42QDlxkJXSTbU8dLx6537inxSSFo%2BN3zLsKkwyZa5s%2FJgXcioXc%2FQqORwWUqfRiKSqw4pV1q6%2Bx%2FympEa%2B2CThElAnGyGHZCQQpFP%2FJWl6RZWPrLxUbbRAbx2PlukiiM4AO8RynqskNoligC5CnDtO3ih2Bx5j6OdhgOTALC3jatXY1l8e8t4c1lb7nDU5dNL%2B9DRuXsTp87%2BCsZ4uu99ASnufFT9QMVUE3FqGtL%2BCVaplb5JurQLzSEEadYr2ddrFLLuckRiR8kpH7v3BC55MHR2eiYPWhqoKc9kMOMuYyAHSgfoKpegVVP1vpXl9Voy%2BLQ71mLjpSEyp0ihOZqdV32HRM6kwnqu92rBpk6HU0qaunGuHRVcLP%2BVzTLlpHMlxHQN9A2x%2BJsSZdz7rmkcdst2IpHHPvkkPWwN0iXEe%2BmXqXAq%2FxkiXzoPsYMagaireUbcbVAhMUkfZH%2FPLaIpM2ZYOxKEu2pw7k1pz4F7dq6vC56kD
+1/31/2022 14:22:12 PM	Courses - Course.Care	https://course.care/courses
+1/31/2022 14:22:15 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/ng/course/63
+1/31/2022 14:25:15 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/course/63/event/7187/queue#/student/course/63/event/7187
+1/31/2022 14:25:15 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/course/63/event/7187/queue#/student/course/63/event/7187?_k=moadmg
+1/31/2022 14:28:13 PM	Getting Help	https://comp550.cs.unc.edu/syllabi/help
+1/31/2022 14:28:11 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/31/2022 14:26:22 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/ng/course/63
+1/31/2022 14:26:23 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/course/63/event/7187/queue#/student/course/63/event/7187
+1/31/2022 14:26:24 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/course/63/event/7187/queue#/student/course/63/event/7187?_k=bo3o1w
+1/31/2022 14:35:30 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/ng/course/63
+1/31/2022 14:39:01 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/31/2022 14:36:14 PM	GitHub	https://github.com/
+1/31/2022 14:39:03 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/31/2022 14:39:11 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Cohort Office Hours	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/page/da2ae44e-e697-411b-ad80-1b41274f4783
+1/31/2022 14:39:13 PM	Cohort Office Hours.html	https://sakai.unc.edu/access/accept?ref=/content/group/f842e8d4-a8cd-475f-8d91-1033d87dc618/Cohort%20Office%20Hours.html&url=/content/group/f842e8d4-a8cd-475f-8d91-1033d87dc618/Cohort%20Office%20Hours.html
+1/31/2022 14:36:19 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+1/31/2022 14:39:00 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9lIM6bYSE6cVM3CTCdrGbpZTP0Qxa1q%2Fs8O%2BH4oxLFq%2F7Hvo%2B%2BRbIm7plSWcrtYP3DtA6X02tkB0fItIZxTRHiUzxBpBZwbLkfsMC12Ot0VYLXRMnQQRjpVZLrbBrwGRgPqSAx90mIpW1LTJKkb9x6XZKuFB2NKtkUegabOUianoIDWi6zXLirPpfSMUPeRdu1GevLFval%2B9lDSfjDkppQFiaZVvirFcRefHmYjIvilAIb7rfc78MZuMi9MU4nAs%2BDbxehtjBWqHlykYk8IJg5Pmj0M%2F9OQtnbHLzTJz0tPFWqlKq1%2BtAikGE7C7P09Ew5gkMHof0AhIvDljZsdhcgL4ey3%2Fpkvh%2FlnhmuaAXBUNbyx76xPUq1bUU305S1%2FpzaYBbiIhPaDxY%2Ft5A%2FAM%3D&RelayState=ss%3Amem%3Aacf3988401bf633544780d114a753fdcc9e1287d61ca04c92ccba80994ff00dd&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=L9UxAoLWppe1Q6RBtWB58MMOKqmA5P8EffTL9UBaqVcOehN0yLK29njFTDzZRx08GVRf21OvBiBmCWub6fp5xZ0vVxfRHzn0Za2%2Fy5YMO6LftwiZXY2ZobxJZ5JXE05iaDPSFzVc9%2F6JDsS8jUR2nZi7toJlG9wPnBUF6ezOnO9t%2FHznCZYnrYug8hdS56G1p2meZeRChJa6oJpbJNFTqpN00LuzQ4HEx8O9%2BRK6A0PFig%2BDnNUVrOxtvWz0QICSiZaE5ndYsR4Yf%2BO%2FSVNEjnCNnUY9OsTqhN6UQm%2BiQ24jCYFKTWMC4PBm4KZeW%2BxjN83KdWBFxmLrhU93hhAPDw%3D%3D
+1/31/2022 14:48:54 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/31/2022 14:48:55 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Cohort Office Hours	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/31/2022 14:50:10 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9
+1/31/2022 14:49:06 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Gradebook	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/f076853e-c091-488c-898b-ae9a71d391bd
+1/31/2022 14:47:57 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 14:46:17 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit?usp=drive_web&ouid=100407440431679426204
+1/31/2022 14:52:28 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 15:01:33 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/ng/course/63
+1/31/2022 15:02:50 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/course/63/event/7179/queue#/student/course/63/event/7179
+1/31/2022 15:02:50 PM	COMP 550 - Algorithms & Analysis - Course.Care	https://course.care/course/63/event/7179/queue#/student/course/63/event/7179?_k=vkflud
+1/31/2022 16:30:47 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+1/31/2022 16:30:58 PM	04-Asymptotic-Analysis-ii.pdf	https://comp550.cs.unc.edu/static/slides/04-Asymptotic-Analysis-ii.pdf?61eeb9c3
+1/31/2022 16:55:03 PM	software engineer salary at boston consulting group - Google Search	https://www.google.com/search?q=software+engineer+salary+at+boston+consulting+group&oq=software+engineer+salary+at+boston+consulting+group&aqs=chrome..69i57j33i299.7171j0j4&sourceid=chrome&ie=UTF-8
+1/31/2022 16:55:40 PM	(15) I am currently 25, working as a software engineer. Should I accept an offer of $400,000 from Boston Consulting for the role of Lead Software Engineer? I am in the Bay area and I don’t wish to move to Boston. - Quora	https://www.quora.com/I-am-currently-25-working-as-a-software-engineer-Should-I-accept-an-offer-of-400-000-from-Boston-Consulting-for-the-role-of-Lead-Software-Engineer-I-am-in-the-Bay-area-and-I-don%E2%80%99t-wish-to-move-to-Boston
+1/31/2022 17:13:26 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+1/31/2022 17:13:29 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/31/2022 17:13:30 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/110e5f66-f042-42e5-b064-af03f3ae1a05
+1/31/2022 17:13:26 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9FApR0wgJ04uZuM0I28VulgLH0ay0rKfs498PxRmXLF73%2Fej75CxQtKrjWe8avYP3HtB5X63SyI8PCemt5kagRK5FC8hdxfPsbsOZH%2FDOGmcqo4iXIYJ10uil0di3YHOwH7KCx90mIY1zHXJKUbwJ6fe68qHuad7IsjQKXOMjGnoIZXT7kBfEWw2%2FkFoc8i7caM5eWXd0KN9LBSfjDmppoXI0zx%2BIt14l5KUMwiCCeRzH4Z5FLJrOoZ7O6iqaRTMWz2GQIfaw1uiEdglhAWOTIJxEYcEYDyPO2DPxtqeNN1LXUr9eB1KOIuS3RbGdjGOewOJxyCAg6eKAlR%2BL7QXo67Hily5J%2F2eJZ5YLelEwtnX8fkhcr7ZGyerby5Qyn0sLwkFCQkLT0fL3BtIf&RelayState=ss%3Amem%3A50eeb5538198f48ef5db4ea8485c4cb900c3ae804b5539d09042e837771db3bd&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=W4XJs7zx5ujluAnQL9NepQzOGIhD4J1xL8gem8sXYaySrlmPs%2Fwrbs7SvlTaKfJ8DMbZnmfVQ%2F1fWO8pyKp5e23QygVzR0hToGy0LOgWPkzlSaHoMZpxizJBiJyEpymg5oqb822xlU9xrymEM6WM%2FoZsfUrD71y2LNF15S%2BPNct1FdYq9VSUIRHPNZynLSOqVgGu2fGEOQJXjkBYt9aI%2FzSMCvXHe5RPChxVPN9jlNvJN82tNZPyBhrkugKUdU4VboNwhzhzcxeEpc%2FA2BFwg%2FpgJzWssazpOTnYXOdkjoISXMcb8%2BOpIuq5JJpObQtFutTLT9oe%2FcXzpYPbxHojgA%3D%3D
+1/31/2022 17:13:33 PM		https://sakai.unc.edu/access/content/group/f842e8d4-a8cd-475f-8d91-1033d87dc618/Class%20Notes/Jan_13.pdf
+1/31/2022 20:51:09 PM	Computer Science	https://cs.unc.edu/
+1/31/2022 20:51:24 PM	UNC CS Clubs | Computer Science	https://cs.unc.edu/experience/cs-clubs/
+1/31/2022 20:52:46 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 20:48:24 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit?usp=drive_web&ouid=100407440431679426204
+1/31/2022 20:51:37 PM	UNC CS Clubs | Computer Science	https://cs.unc.edu/experience/cs-clubs/#bit
+1/31/2022 20:51:44 PM	Black in Technology - Heel Life	https://heellife.unc.edu/organization/bit
+1/31/2022 20:54:49 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:00:12 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:07:41 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:09:38 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:09:48 PM	UNC CS Clubs | Computer Science	https://cs.unc.edu/experience/cs-clubs/#bit
+1/31/2022 21:10:49 PM	UNC CS Clubs | Computer Science	https://cs.unc.edu/experience/cs-clubs/#cssg
+1/31/2022 21:22:22 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:27:20 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:40:16 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:46:49 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 21:57:57 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+1/31/2022 22:01:49 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+2/1/2022 07:48:28 AM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/1/2022 07:48:27 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+1/31/2022 22:16:01 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+2/1/2022 07:48:32 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+1/31/2022 22:14:41 PM	01 Homework	https://comp550.cs.unc.edu/homeworks/homework-01-summations
+2/1/2022 07:48:36 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Assignments	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/00105144-9d73-4863-9fdf-7a9a6d5d43d5
+1/31/2022 22:13:50 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+1/31/2022 22:16:15 PM	Chapter 4.1 Worksheet	https://comp550.cs.unc.edu/worksheets/worksheet-chapter-4-1
+1/31/2022 22:13:59 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZLNbsIwEIRfJfKdODENFItESuFQJFoQSXvopXKcpbGU2KnX6c%2FbNxBK6QXJN8%2FM7nzaOYqmbnnauUrv4L0DdN5XU2vkx4%2BYdFZzI1Ah16IB5E7yLH1Yc%2BYHvLXGGWlq4qWIYJ0yemE0dg3YDOyHkvC0W8ekcq5FTqk0TRtFgS%2FR77T0oexoVqmiMDW4ykc09JDM6HaT5cRb9qsoLQ6hfxG96OxVZUv7DfaqhpNxB6WyIB3Nsg3xVsuYvIbFeM%2FYrZBFOC3D2T5gMAlZdCPYpJzMWNnLEDtYaXRCu5iwgLFR0L8wD8Y8HPNo%2BkK87anondKl0m%2FXqRSDCPl9nm9HQ5lnsHgs0gtIMj%2Bw5cfB9oL29Vjxi5gkV4DiGeicXkwZRrb8sY9dLbemVvLbS%2BvafC4sCAcxCQlNBsv%2Fa0h%2BAA%3D%3D&RelayState=ss%3Amem%3A47b0435c72756e23985176f9d19788f2a28ac21f0cb89ccfcf909e1ed744015f&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=DS03wX1IjcKwb6ZTuhrWbAxywrYIE0Ppfnp4imW3NYidw%2FFIR5ZmxoH8PrUsl1GZD4Nvq0qkCUgGG3WGJVZZFwSZJSeNUi5%2BDAm%2BChdjehWl5SqGqpjRexaN4zlrb43R6xS5SdSz2ePyoZPXIj9EES6Ki3FB%2BS6vr%2FplT1DUoRYXijN0DI%2BtMdHpD%2BA3KYXhZxwjulyb6Fim2bzFjCKpRVHiRgnF75IkrEIOwWyAVMYEQ%2F64XsWwSv8CG42J6TCheI9XHeO9RBCDdzbP%2BybfrzuqczENJKOk12n9NzVl5aKOzUtAP4HbBwcVsVqDKdyCNpv6E%2BhjxSsYm1ZCmdqz597g%2BP%2FX8xNyxase7oY8YoWk5bPcs2AjvO3%2BZnuE1XW6JXXrCEsCqqGT2ud49Q8CpiWRDzKV23pKnGttlyuuk3yGlCeGM%2FQCcmYVJP1jU1HKUA%2Bzu5LpwBYivop09dV0wU4fXvpcx1poZMpUdaFn8dyP5KgeYOx5sLzBadRAf8Mf
+1/31/2022 22:14:36 PM	Submissions	https://comp550.cs.unc.edu/view/homework-01-summations/15029
+2/1/2022 07:48:26 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbT4MwGIb%2FCum9FMhwrhkkuF24ZDoy0AtvTFu%2BSSO02K94%2BPeyMZeZmCW963vo%2B6Rz5G3Tsax3td7Cew%2FovK%2B20cgOFwnprWaGo0KmeQvInGRFdr9mkR%2BwzhpnpGmIlyGCdcrohdHYt2ALsB9KwuN2nZDauQ4ZpcjfuPJ7LX2oelrUSgjTgKt9REP3oRHNN0VJvOXwCqX5Pu%2FMjebkVVVHh%2FKdauBo3EKlLEhHi2JDvNUyIS%2FBTF7HkxlEQoqdqOIdSB5PBRdCTONQwCBD7GGl0XHtEhIFUXQVDCcsw4hNblgUPxMvP268VbpS%2BvUyEDGKkN2VZX41jnkCi4chg4Ck8z1Wdii2Z6Avx%2FJfuiT9nyWeWM7pWcHY1rGHIXG1zE2j5LeXNY35XFjgDhISEpqOlr9%2FIP0B&RelayState=ss%3Amem%3A233920be2c91aa26935fa71fb355a963025856756555a61308caa22cd77f2386&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=JIXlvjODADQ4DVCk6DRHv9K%2BdQp0IoSdSpk7DTzxj82azt6IXXVCKTqrHBmV5Q6rOQagVX1F9pn3CBfes1bnUUklQFPD%2BCZZzezMkqSc8Ca5cy1oHC4Q2ETjlODwpmUDD0Zs4pgX3DKdnIIePZ7G3r8gnYWaLk6H2yibrjJYegagfOQylQgroSpom1229hfZdqhxVY6IordAlEcuSLg7jwoZ1iuZdgD7EqBx2e3NSARkKfKJpBsDVY%2B2ZyShBTqd7IRYTU0nyBJplHwtYNXoL%2FMvfLuM%2FuITY89zW6iyU5%2BU0mHTT4Z2qJ1VQGHdy3qtbFn0QzV6Y6ZIPzNX3xzo7A%3D%3D
+2/1/2022 07:49:04 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+2/1/2022 07:49:05 AM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+2/1/2022 07:49:52 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0
+2/1/2022 07:49:57 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0#
+2/1/2022 07:49:58 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0?panel=Main
+2/1/2022 07:49:05 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Gradebook	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/1aa739bf-928d-43ac-85ca-9535df3989db
+2/1/2022 07:50:00 AM	Homework 2.pdf	https://sakai.unc.edu/access/content/group/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/Assignments/Homework%202.pdf
+2/1/2022 09:31:50 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+2/1/2022 09:31:54 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+2/1/2022 09:32:29 AM	01 Homework	https://comp550.cs.unc.edu/homeworks/homework-01-summations
+2/1/2022 09:30:54 AM	Chapter 4.1 Worksheet	https://comp550.cs.unc.edu/worksheets/worksheet-chapter-4-1
+2/1/2022 09:32:13 AM	Submissions	https://comp550.cs.unc.edu/view/homework-01-summations/15029
+2/1/2022 09:30:53 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJLb4MwEIT%2FCvI9mEdoEysg0eTQSGmDAu2hlwrsTbEENvWaPv59SUjT9BLJN8%2FM7nzaBZZt07G0t7XawXsPaJ2vtlHIjh8x6Y1iukSJTJUtILOc5enDhgWuxzqjrea6IU6KCMZKrZZaYd%2BCycF8SA5Pu01Mams7ZJRy3XZR5Lkc3V5xF0RP81pWlW7A1i6ipofkgGbbvCDOalhFqvIQ%2BhcxiM5eKTo6bLCXDZyMOxDSALc0z7fEWa9i8hreCHFbVbP9LIoiEcyrKY%2FCKBDzyoNQ%2BNNBhtjDWqEtlY1J4AXBxBueX%2FhTFnosCl%2BIk52K3kklpHq7TqUaRcjuiyKbjGWeweCxyCAgyeLAlh0Hmwva12PLX8QkuQIUz0AX9GLKOLJjj0PsepXpRvJvJ20a%2Fbk0UFqIiU9oMlr%2BX0PyAw%3D%3D&RelayState=ss%3Amem%3A40321b68ebd1ba2cfb1b1626f873a6857abc3f521a4c063e2e2c0af390089ff4&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=qyqoJ1q2rpuoLU9Qpo3TlFkIBeQrCbmVellMegWUYuSnPhNWuFmi%2BXqkI4LGBh9PYusdRn8XxBfZzVQgErLzLAP2v45iQf7GaXfXYrZfmuUiqE0D9tknof8Fpn6%2BiMuLK57ZSvmhNCtQ4f%2FTlfq%2BkaWSOtsO6%2BTtIE5XISGRgWaAgNG4BNSo%2FZAteiGF3Hdl3KdaJ5WprbABm59zzep92%2BBqX9nwIrXyg04ibw2f3r5dUt%2FLaQepFGMKXqg40igXWNJrJYxbcvbg3jbW7RCCKp2t5kurCLjHa4lSZGNvzaNvrAPs1sI%2BpBigR694wo74HqEVbb0IvYaclYcnwaahFMSI5duTrjC1nBYH%2BGF%2F4IkI%2FrazmEKJKaVmCZOAiuZOqBc650aYUezUL%2BhWqq7d8YcwlSZpi9EVN0bkpOefcRprK3bEZ5eQBhtBLgcxGZgDEczzMQCOCnKRuJx%2F2HzEGnm1aKow95mfsfrqhUhZqAy91BJFQ%2FDASvboZGEtOM%2B8
+2/1/2022 09:31:15 AM	Submissions	https://comp550.cs.unc.edu/view/worksheet-chapter-4-1/15341
+2/1/2022 09:37:25 AM	Alsadoon_Wid.1 - Google Docs	https://docs.google.com/document/d/1NvToeZfFJt-ORanci7ti3_95cvTEzWvxZLT12l6Lflw/edit?usp=drive_web&ouid=100407440431679426204
+2/1/2022 09:38:33 AM	Alsadoon_Wid.1 - Google Docs	https://docs.google.com/document/d/1NvToeZfFJt-ORanci7ti3_95cvTEzWvxZLT12l6Lflw/edit
+2/1/2022 09:40:28 AM	Copy of Alsadoon_Wid.1 - Google Docs	https://docs.google.com/document/d/17sNMRPgys7slDLnfxwJ6WopDTEdJRi1EsB7Ixk-iv1Y/edit?usp=drive_web&ouid=100407440431679426204
+2/1/2022 09:40:35 AM	Copy of Alsadoon_Wid.1 - Google Docs	https://docs.google.com/document/d/17sNMRPgys7slDLnfxwJ6WopDTEdJRi1EsB7Ixk-iv1Y/edit
+2/1/2022 09:42:22 AM	ConnectCarolina	https://connectcarolina.unc.edu/
+2/1/2022 09:42:26 AM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+2/1/2022 09:42:30 AM	sso.unc.edu	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+2/1/2022 09:42:26 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+2/1/2022 09:42:26 AM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+2/1/2022 09:42:26 AM	An error has occurred.	https://cs.cc.unc.edu/
+2/1/2022 09:42:27 AM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+2/1/2022 09:42:27 AM		https://fs.cc.unc.edu/
+2/1/2022 09:42:27 AM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+2/1/2022 09:42:28 AM	An error has occurred.	https://hc.cc.unc.edu/
+2/1/2022 09:42:28 AM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+2/1/2022 09:42:29 AM	An error has occurred.	https://csrpt.cc.unc.edu/
+2/1/2022 09:42:29 AM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+2/1/2022 09:42:30 AM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+2/1/2022 09:42:30 AM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+2/1/2022 09:42:30 AM	Student	https://hcrpt.cc.unc.edu/
+2/1/2022 09:42:34 AM	Student	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+2/1/2022 09:42:42 AM	Student Center	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_STUDENT_CENTER.GBL
+2/1/2022 09:42:49 AM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_GRADE.GBL?Page=SSR_SSENRL_GRADE&Action=A
+2/1/2022 09:41:03 AM	Alsadoon_Wid.1EC - Google Docs	https://docs.google.com/document/d/17sNMRPgys7slDLnfxwJ6WopDTEdJRi1EsB7Ixk-iv1Y/edit
+2/1/2022 09:56:44 AM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/1/2022 09:56:51 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+2/1/2022 09:56:54 AM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+2/1/2022 09:57:26 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0
+2/1/2022 09:57:29 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0#
+2/1/2022 09:57:29 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0?panel=Main
+2/1/2022 09:56:56 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Gradebook	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/1aa739bf-928d-43ac-85ca-9535df3989db
+2/1/2022 09:56:44 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9FBDFNULC9GImbhJhu9jNUuBjNIOW9Ss7%2FPuhOOOSxaR3fQ99n3SJvG06Fvemlnt47wGN9dU2EtnxIiS9lkxxFMgkbwGZKVga32%2BZZzus08qoQjXEihFBG6HkSknsW9Ap6A9RwON%2BG5LamA4ZpcjfuLB7WdhQ9jStRZ6rBkxtIyp6CPVoskszYq2HVwjJD3kXblRnryg7OpRXooGTcQ%2Bl0FAYmqY7Ym3WIXmBKg%2BKaXHjL4I5VI7r8RufO2UVVIsy8GbzQYbYw0ai4dKExHM8b%2BIMx81cn83mzJ8%2BEys5bbwVshTy9TqQfBQhu8uyZDKOeQKNxyGDgETLA1Z2LNYXoK%2FH8l%2B6JPqfJZ5ZLulFwdjWsYchcbNOVCOKbytuGvW50sANhMQlNBotf%2F9A9AM%3D&RelayState=ss%3Amem%3A8f1a601c105da6ee23f7dfd797afc283d903efd9df168b066e98fc618202cede&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=Kt3jpkUW5JhiJEgknuzZYgYKiIM8MxhtTQdTWk9fSnipQYCVsU7aUxX6IKFZWhlhMqw4gJvBahAxlqtzP5pVauNEGWScduZNPYq7uieIk9cXeSUtvlFLCTHYEEiXJGdN4Ebry1dSvQshowIbEtGs5r19BvXyxXxGUtURcap9exHPJbRb3ynAzgYiR2JdRKWdX%2Fn9f6MPxhdCncGAegeSzJ6OozfGoasCUuBP4DdZtTlsYEuXrXhDxO6vhXsitDjmZUs2nNDunEgKpWBGPoKTmNEXdEDNX9ncoG8wyDPGZvA0N8cGuuvcB%2FWovknRIjMAtwVGYBHxWhJYKPp0f3ylfg%3D%3D
+2/1/2022 09:57:32 AM	Microsoft PowerPoint - Pricing strategies - intro and linear	https://sakai.unc.edu/access/content/group/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/Class%20slides/Pricing%20strategies%20-%20intro%20and%20linear.pdf
+2/1/2022 10:18:28 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Gradebook	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/1aa739bf-928d-43ac-85ca-9535df3989db
+2/1/2022 10:51:47 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+2/1/2022 10:51:44 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJLb4MwEIT%2FCvK9GAgkjRWQaHJopLRBgfbQS2XMUiyBTb2mj39f8miaXiL55pnZnU%2B7QN61PUsH26gdvA%2BA1vnqWoXs8BGTwSimOUpkineAzAqWpw8bFrge6422WuiWOCkiGCu1WmqFQwcmB%2FMhBTztNjFprO2RUSp010eR5wp0ByVcqAaaN7IsdQu2cRE13ScHNNvmBXFW4ypS8X3oX8QoOntl1dNxg1q2cDLuoJIGhKV5viXOehWT13rOgYd8OpuVt0E5Dat5JKJyPq99EfJ6OhlliAOsFVqubEwCLwhuvPH5hR%2BxyGfh5IU42anonVSVVG%2FXqZRHEbL7oshujmWeweChyCggyWLPlh0Gmwva12P5L2KSXAGKZ6ALejHlOLJnj2PsepXpVopvJ21b%2Fbk0wC3ExCc0OVr%2BX0PyAw%3D%3D&RelayState=ss%3Amem%3Aa29b50d8995526859bd78f4065ba2de2a7c42160b8a8f6c052a058e4bce6a940&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=fM1LZXeUaHJQLggcUH5zv4Ww2QA2Ep%2FX4bcopoiKFJZDRXYesadRqzdppWZJKjWigtmn6N13iptbojD7agQWj%2BxNTt92WylL2mwsZTQckNyT8y%2B%2BVLyT25fFZ0Rk91fYhNSrQ%2BEL3yVUsYZuR1xsJ51RGJvh1dho2dWt1SW9Arkt3epjus36vH8CuUukJZiygqmjFqKCOskkjBtTJxnZUgdOVsZnoEMSszPnFpdxbgCMF4d9yHFWD3OBcPXInCJK67lYmf3IcLlXFq8gex5cFfzGYiq4JTXrcVgHnynPTF2mWMj3QYu4ASnn37Un6%2BQNgOj7to3C%2BpY1zlFaX0DfVQzdaif%2F8L4qjx3voo0K%2BVlTDydCwq7ijYmWjiJP0%2BRapdhnprYr22MIpTpxdDTxEjQy7%2Fu9iEU2R3iPzGnKDmJHTHlvXZ5qaL1JFvm3VYmw9EZzGe2Jx5sf3lpeh6NZ2R0GHCvpCYV14T%2BaK%2FgoX3sD2ntofj%2BT4LYXZiG2gbJU
+2/1/2022 10:51:58 AM	05-Recurrence-Relations-Divide-and-Conquer-B-Changing-Variable.pdf	https://comp550.cs.unc.edu/static/slides/05-Recurrence-Relations-Divide-and-Conquer-B-Changing-Variable.pdf?61f738cc
+2/1/2022 11:04:30 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+2/1/2022 11:04:08 AM	Chapter 4.4 Worksheet Recursion Trees	https://comp550.cs.unc.edu/worksheets/worksheet-chapter-4-4
+2/1/2022 11:04:33 AM	05 Recurrence Substitution A In-class Worksheet	https://comp550.cs.unc.edu/worksheets/worksheet-05-B-A-together
+2/1/2022 11:15:44 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+2/1/2022 11:13:05 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+2/1/2022 11:13:01 AM	Submissions	https://comp550.cs.unc.edu/view/worksheet-05-B-A-together/15502
+2/1/2022 11:15:19 AM	COMP550.Fall21.Midterm1	https://comp550.cs.unc.edu/handouts/COMP550.Fall21.Midterm1
+2/1/2022 11:15:46 AM	COMP550.Spring20.Midterm1	https://comp550.cs.unc.edu/handouts/COMP550.Spring20.Midterm1
+2/1/2022 12:04:05 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+2/1/2022 12:04:06 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+2/1/2022 12:04:09 PM	Submissions	https://comp550.cs.unc.edu/view/homework-01-summations/15029
+2/1/2022 14:20:29 PM	Alsadoon_Wid.1EC - Google Docs	https://docs.google.com/document/d/17sNMRPgys7slDLnfxwJ6WopDTEdJRi1EsB7Ixk-iv1Y/edit?usp=drive_web&ouid=100407440431679426204
+2/1/2022 14:21:11 PM	Alsadoon_Wid.1EC - Google Docs	https://docs.google.com/document/d/17sNMRPgys7slDLnfxwJ6WopDTEdJRi1EsB7Ixk-iv1Y/edit
+2/1/2022 14:24:26 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit
+2/1/2022 14:24:17 PM	Eve Carson Semifinalist Essays - Google Docs	https://docs.google.com/document/d/1xuQ3YnYsMbnshgsMNMR0N5gaxb3S3b_K-M6fUaggppk/edit?usp=drive_web&ouid=100407440431679426204
+2/1/2022 15:35:16 PM	The Web in General - 202200113	https://comp426-2022-spring.github.io/slides/w01-01.html
+2/1/2022 15:35:28 PM	Functions and evolution	https://comp426-2022-spring.github.io/slides/w03-00.html
+2/1/2022 15:39:07 PM	Functions and evolution	https://comp426-2022-spring.github.io/slides/w03-00.html
+2/1/2022 15:44:24 PM	Modern Web Programming	https://comp426.johndmart.in/
+2/1/2022 15:44:27 PM	Agenda – Modern Web Programming	https://comp426.johndmart.in/agenda
+2/1/2022 15:44:27 PM	Agenda – Modern Web Programming	https://comp426.johndmart.in/w/
+2/1/2022 15:43:41 PM	Covenant Career Accelerator Program - Office of Scholarships and Student Aid	https://studentaid.unc.edu/career-accelerator-program/
+2/1/2022 15:42:35 PM	Covenant Career Accelerator Program - Office of Scholarships and Student Aid	https://studentaid.unc.edu/career-accelerator-program
+2/1/2022 15:44:34 PM	w03 Functions and Modules – Modern Web Programming	https://comp426.johndmart.in/w/03/
+2/1/2022 15:54:19 PM	Assignments – Modern Web Programming	https://comp426.johndmart.in/a
+2/1/2022 15:54:22 PM	Agenda – Modern Web Programming	https://comp426.johndmart.in/agenda
+2/1/2022 15:54:22 PM	Agenda – Modern Web Programming	https://comp426.johndmart.in/w/
+2/1/2022 15:54:24 PM	w03 Functions and Modules – Modern Web Programming	https://comp426.johndmart.in/w/03/
+2/1/2022 16:12:00 PM	The D. E. Shaw Group Software Engineer Salaries | $69k | Levels.fyi	https://www.levels.fyi/company/The-D-E-Shaw-Group/salaries/Software-Engineer/
+2/1/2022 16:12:18 PM	Jane Street Software Engineer Salaries | $375k | Levels.fyi	https://www.levels.fyi/company/Jane-Street/salaries/Software-Engineer/
+2/1/2022 18:51:55 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/1/2022 18:51:55 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+2/1/2022 18:51:02 PM	GitHub	https://github.com/
+2/1/2022 18:51:57 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+2/1/2022 18:52:01 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/110e5f66-f042-42e5-b064-af03f3ae1a05
+2/1/2022 18:52:03 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Cohort Office Hours	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/page/da2ae44e-e697-411b-ad80-1b41274f4783
+2/1/2022 18:52:05 PM	Cohort Office Hours.html	https://sakai.unc.edu/access/accept?ref=/content/group/f842e8d4-a8cd-475f-8d91-1033d87dc618/Cohort%20Office%20Hours.html&url=/content/group/f842e8d4-a8cd-475f-8d91-1033d87dc618/Cohort%20Office%20Hours.html
+2/1/2022 18:51:06 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+2/1/2022 18:51:53 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9FDA4aYSE6cVM3CTCdrGbpZTP0Qxa1q%2Fs8O%2BH4oxLFpPe9T30fdIF8rbpWNrbWu3gvQe0zlfbKGTHi5j0RjHNUSJTvAVkVrA8vd%2BwwPVYZ7TVQjfESRHBWKnVUivsWzA5mA8p4HG3iUltbYeMUuRvXLq9Ei5UPc1rWZa6AVu7iJoeQgOabfOCOKvhFVLxQ96FG%2FXZK6uODuV72cDJuINKGhCW5vmWOOtVTF5uxLSMIjHjItqLai7mpT%2BdhRGfVdz35l44yBB7WCu0XNmYBF4QTLzh%2BEUwZaHPwuCZONlp461UlVSv14GUowjZXVFkk3HMExg8DhkEJFkcsLJjsbkAfT2W%2F9Ilyf8s8cxyQS8KxraOPQyJ61WmGym%2BnbRp9OfSALcQE5%2FQZLT8%2FQPJDw%3D%3D&RelayState=ss%3Amem%3Ad80efeebfa6a9cd2de7235dea352bf08e22bee939a7ebe355de344c10d490ef6&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=bRYCKYP1KC15CiJ556w7HvPOA6kK%2BA2gLfGxMvbNWr42eWu5jlP3Nl3rB5JMmtfPx17WpWMQUpAA5ly10l%2BQR5M2tKSVX3m2NFX23sPA0PsY2vDuEjFlIUAG4m6fO4yQcLvBhjT0FIloxBYv6c%2BIpM49%2FNgJ2%2FyHUfYZRcJKDm94%2Fb3UehvvXRdKi0wkOqFzTQ7QdrbCZ2jAjdTTaYMXO5GvVtFhybYHCfcZd8pfEbxwC9roNdJeQnKYhn4lOCCVNt9mjgso9ncdLkhgwGwO9xtjdChLNsJvuMUDO2VqtI8rCVNjqksDtUtTOnmxz4J6DiSBqT4waij8rNz9PXkKdQ%3D%3D
+2/1/2022 19:52:44 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+2/1/2022 20:30:42 PM	Comp311-SP22/lab-01-WidAlsa0: lab-01-WidAlsa0 created by GitHub Classroom	https://github.com/Comp311-SP22/lab-01-WidAlsa0
+2/2/2022 08:53:57 AM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1kb34wFyANejqR5Yl473GmoBz9dGy5-NW
+2/2/2022 08:53:59 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:00:09 AM	Covenant Career Accelerator Program - Office of Scholarships and Student Aid	https://studentaid.unc.edu/career-accelerator-program/
+2/2/2022 08:59:02 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:03:15 AM	Covenant Faculty and Staff Mentors - Office of Scholarships and Student Aid	https://studentaid.unc.edu/covenant-faculty-and-staff-mentors/
+2/2/2022 09:06:54 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:12:08 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:17:06 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:21:23 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:27:01 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:32:08 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:35:44 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:41:49 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:47:05 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 09:52:09 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 10:06:19 AM	ConnectCarolina	https://connectcarolina.unc.edu/
+2/2/2022 10:06:30 AM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+2/2/2022 10:06:33 AM	sso.unc.edu	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+2/2/2022 10:06:29 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/POST/SSO?execution=e1s1
+2/2/2022 10:06:30 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+2/2/2022 10:06:30 AM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+2/2/2022 10:06:30 AM	An error has occurred.	https://cs.cc.unc.edu/
+2/2/2022 10:06:31 AM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+2/2/2022 10:06:31 AM		https://fs.cc.unc.edu/
+2/2/2022 10:06:31 AM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+2/2/2022 10:06:31 AM	An error has occurred.	https://hc.cc.unc.edu/
+2/2/2022 10:06:32 AM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+2/2/2022 10:06:32 AM	An error has occurred.	https://csrpt.cc.unc.edu/
+2/2/2022 10:06:32 AM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+2/2/2022 10:06:32 AM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+2/2/2022 10:06:33 AM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+2/2/2022 10:06:33 AM	Self Service	https://hcrpt.cc.unc.edu/
+2/2/2022 10:06:35 AM	Self Service	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+2/2/2022 10:06:41 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+2/2/2022 10:06:41 AM		https://unctim.unc.edu/wfc/logon
+2/2/2022 10:06:42 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+2/2/2022 10:06:42 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+2/2/2022 10:06:42 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+2/2/2022 09:54:13 AM	02/02 Lecture - Google Docs	https://docs.google.com/document/d/1nd-rpo-qgks6nR94PRVwDmBjwRcnkSTZAq8D6gD_r_g/edit
+2/2/2022 10:06:41 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLRTsIwFP2Vpe%2BupQNkDVuC8iAJCmFDE19M6S7QZGtnb4d%2BvmOg4oMkTZrmnnvOued2jLIqeS0mjd%2BbFbw3gD74rEqD4lRJSOOMsBI1CiMrQOGVyCaPc8FDJmpnvVW2JMEEEZzX1txbg00FLgN30ArWq3lC9t7XKChtjPK6CtsrhKKhH1tFS7uz5kX7%2FXo2JcG0lddGHnl%2BuxDtT4suatqKbnUJ9OiC0xUU2oHyNMsWJJhNE%2FI2krdRHA%2BH8Qh6%2Ff5goxiLFZMs4hAVfCtbGGIDM4NeGp8Qzji%2FYceT9waCDUUUh3HUfyXB8jzfnTaFNrvrYWxOIBQPeb68WS6yvCM46ALcU4u%2BlgMJnsFhN3ZLRdJxl77ofLrLhVy3IL%2B3QNL%2Ftcb0kjw9P%2F%2F%2BgfQL&RelayState=
+2/2/2022 10:10:10 AM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/2/2022 10:11:37 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+2/2/2022 10:11:39 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/110e5f66-f042-42e5-b064-af03f3ae1a05
+2/2/2022 10:11:46 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa
+2/2/2022 10:11:50 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?panel=Main
+2/2/2022 10:10:09 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCun9KKLG0IgJ04uZuEmE7WI3S6GH0ay0rKfs498PxBmXLCbt1Xk%2Fep50ibxRLUs6V%2BsDvHeAzvtqlEZ2HMSks5oZjhKZ5g0gcyXLkvsdC%2F2AtdY4UxpFvAQRrJNGr43GrgGbgf2QJTwedjGpnWuRUYr8jUu%2F06UPoqNZLYvCKHC1j2joEBrSdJ%2FlxNv0r5CaD3kXbjRnrxQt7csrqeBkPICQFkpHs2xPvO0mJi9VFETz%2FoZiFohZVFZVMY2mYhGE4bwoxKKXIXaw1ei4djEJ%2B8FNMJx8MmeTgAWLZ%2BKlpx1vpRZSv14HUowiZHd5nt6MyzyBxeMivYCslgNWdiy2F6Cvx%2FJfumT1P0s8s1zSi4KxrWUPfeJ2kxoly28vUcp8ri1wBzGZELoaLX%2F%2FwOoH&RelayState=ss%3Amem%3A7a27cfada617d29f39bc45ccda965dbaff0ac99b638085532d98a8051533ae1e&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=Dulk32ZLJddG9EnEXvbu%2BQzheDZAsPIdwvxy2Ac1DwMrAQDB3xv7oclgqIxxomfFyxcFdWYb4udxMiLKVLNRuLYHnbwxAV%2BBDlyu7HrgPSZ%2F%2FLqVNwcxuEo9MERoZS4xbYxpa6IwWf9CUM0ax%2BuBiSbWy%2FoHoW%2BqPvD9zszK0NnxNm3FgWIjEuUR7utgaJsHR5C7r4TAM3pgaEbskPwr%2BNXq1Mzq2VJt4%2BpptHXy3W7nPu%2FTNJ5H1%2FXFbHBdo%2FNvBJil%2Ftb%2BO417zXQfKgjQIFs7qPHz0MBmiRJD3xRAf%2FVrTiqJJj3HcQrCzp8KBAanA6xaNVgGIJ4rW9Zgwk6QXQ%3D%3D
+2/2/2022 10:11:50 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?itemReference=/announcement/msg/f842e8d4-a8cd-475f-8d91-1033d87dc618/main/ed96d5db-68ee-4413-afca-c7edfbe65480&sakai_action=doShowmetadata
+2/2/2022 11:26:44 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/110e5f66-f042-42e5-b064-af03f3ae1a05
+2/2/2022 11:26:52 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa
+2/2/2022 11:26:44 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool-reset/110e5f66-f042-42e5-b064-af03f3ae1a05
+2/2/2022 11:26:59 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/directtool/110e5f66-f042-42e5-b064-af03f3ae1a05/
+2/2/2022 12:27:48 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+2/2/2022 12:37:45 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+2/2/2022 12:37:45 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+2/2/2022 12:37:45 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+2/2/2022 12:37:45 PM	UNC-Chapel Hill Single Sign-On	https://unctim.unc.edu/wfc/htmlnavigator/logon
+2/2/2022 12:43:49 PM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1SL6c7pw7r-MidAzHHougPf5q32tdWEfg
+2/2/2022 12:43:55 PM	Assignment 1.docx - Google Docs	https://docs.google.com/document/d/1V8yWTp1hbZ1eh2MRBXXGAbkcSPSjyTyF/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+2/2/2022 12:43:55 PM	Assignment 1.docx - Google Docs	https://docs.google.com/document/d/1V8yWTp1hbZ1eh2MRBXXGAbkcSPSjyTyF/edit?rtpof=true
+2/2/2022 12:43:59 PM	Assignment 1.docx - Google Docs	https://docs.google.com/document/d/1V8yWTp1hbZ1eh2MRBXXGAbkcSPSjyTyF/edit
+2/2/2022 13:06:59 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+2/2/2022 16:34:13 PM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1SL6c7pw7r-MidAzHHougPf5q32tdWEfg
+2/2/2022 18:41:11 PM	GitHub	https://github.com/
+2/2/2022 18:41:37 PM	pdewan/DemoCourseProject: Project to be checked by DemoCourse local and all checks	https://github.com/pdewan/DemoCourseProject
+2/2/2022 18:41:48 PM	DemoCourseProject/src at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src
+2/2/2022 18:41:45 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+2/2/2022 18:41:30 PM	Your Stars	https://github.com/WidAlsa0?tab=stars
+2/2/2022 18:41:57 PM	DemoCourseProject/src/diningPhilosopher at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher
+2/2/2022 18:41:55 PM	DemoCourseProject/src/diningPhilosopher/view at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher/view
+2/2/2022 18:42:57 PM	DemoCourseProject/src/diningPhilosopher at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher
+2/2/2022 18:42:22 PM	DemoCourseProject/src/diningPhilosopher/philosopher at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher/philosopher
+2/2/2022 18:42:54 PM	DemoCourseProject/src/diningPhilosopher/main at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher/main
+2/2/2022 18:42:33 PM	DemoCourseProject/DiningMain.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/diningPhilosopher/main/DiningMain.java
+2/2/2022 18:42:59 PM	DemoCourseProject/src/diningPhilosopher/factories at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher/factories
+2/2/2022 18:43:15 PM	DemoCourseProject/SceneFactory.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/diningPhilosopher/factories/SceneFactory.java
+2/2/2022 18:44:17 PM	DemoCourseProject/DiningScene.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics/DiningScene.java#L11
+2/2/2022 18:44:18 PM	DemoCourseProject/src/graphics at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics
+2/2/2022 18:44:25 PM	DemoCourseProject/src at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src
+2/2/2022 18:45:15 PM	DemoCourseProject/src/counterIncrementer at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer
+2/2/2022 18:44:38 PM	DemoCourseProject/CounterIncrementerFactory.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer/CounterIncrementerFactory.java
+2/2/2022 18:44:58 PM	DemoCourseProject/package-info.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer/package-info.java
+2/2/2022 18:45:13 PM	DemoCourseProject/src/counterIncrementer/synchronize at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer/synchronize
+2/2/2022 18:45:07 PM	DemoCourseProject/SynchronizedCounterIncrementer.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer/synchronize/SynchronizedCounterIncrementer.java
+2/3/2022 07:43:41 AM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/3/2022 07:43:41 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+2/3/2022 07:43:57 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+2/3/2022 07:43:58 AM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+2/3/2022 07:43:44 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+2/3/2022 07:43:34 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbT8IwGIb%2FytJ7162AQsOWTLiQBGVh0wtvTLt9uMatnf06D%2F%2FewZBgYkh61%2FfQ90nnKJq65UnnKr2F9w7QeV9NrZEfLiLSWc2NQIVciwaQu4Jnyf2aMz%2FgrTXOFKYmXoII1imjF0Zj14DNwH6oAh6364hUzrXIKUXxJpTf6cKHsqNZpaQ0NbjKRzR0H8pously4i37Vygt9nlnbjQnrypb2pfvVA1H4xZKZaFwNMs2xFstI%2FIiZmwyDtg1TMcynEkhZXkjwiIQ08kMdkz2MsQOVhqd0C4iLGDsKujPKA8ZH4%2F4iD0TLz1uvFW6VPr1MhA5iJDf5Xl6NYx5AouHIb2AxPM9Vn4otmegL8eKX7ok%2Fp8lnljO6VnB0Nbyhz5xtUxNrYpvL6lr87mwIBxEJCQ0Hix%2F%2F0D8Aw%3D%3D&RelayState=ss%3Amem%3A3d25dd9ac3d0eaaadd4af30d38b4c77d95856391f03198bb0442683130ef8ea8&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=P6zAXIHFGYeq6b7V7P7Abfulw1Nl6vVgGKhsSDXYH7sA3NoMjg5V49t7P8NGsx8%2Ft0AK0VPscLPjpnNAYH0k80ggf3mm2kHimxQUHj0VI3Sw%2BeNjpQVpXLg4Yz5RGJd7jbZV7HxneI1SE6iBrm3ORO9nURAKsVpLf%2BGhm16kU4kAU6Rfo%2FHu01q%2BSE9lgX%2BqIXBp3G8kv6xXXc0L9dwYKQLrUGjuBZ75LCH48WrF4UTL7uTQVPx5aWe8yItn4%2FGUkZYnBxDWBMSjSCYbbybk1uGYjkLwctnVfzcPu5%2F85oGtBWsTOIIN1hoY239u9SFr%2B%2BBa9U%2BTRe3YcXuXuSXLmw%3D%3D
+2/3/2022 07:47:10 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Roster	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/d52e128a-25d2-4920-8dd9-ad209caf81e5
+2/3/2022 07:48:17 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1
+2/3/2022 07:48:40 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/compose
+2/3/2022 07:48:17 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool-reset/3505d63b-d7f6-4b46-bfda-156823c7e5f1
+2/3/2022 07:48:20 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsgFolderAdd
+2/3/2022 07:48:22 AM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Messages	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsgSettings
+2/3/2022 07:49:08 AM		https://sakai.unc.edu/portal/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/compose
+2/3/2022 07:49:05 AM		https://sakai.unc.edu/portal/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsgHpView
+2/3/2022 07:49:08 AM		https://sakai.unc.edu/portal/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsg
+2/3/2022 07:49:52 AM		https://sakai.unc.edu/portal/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/compose
+2/3/2022 07:49:56 AM		https://sakai.unc.edu/portal/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsgHpView
+2/3/2022 07:49:59 AM		https://sakai.unc.edu/portal/tool/3505d63b-d7f6-4b46-bfda-156823c7e5f1/privateMsg/pvtMsg
+2/3/2022 09:34:17 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+2/3/2022 09:34:28 AM	Chapter 4.4 Worksheet Recursion Trees	https://comp550.cs.unc.edu/worksheets/worksheet-chapter-4-4
+2/3/2022 09:34:17 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJLb4MwEIT%2FCvI9mEfIwwpINDk0UtqgQHvopTJmWyyBTb2mj39fEtI2vUTyzTOzO592hbxtOpb2tlYHeOsBrfPZNgrZ6SMmvVFMc5TIFG8BmRUsT%2B92LHA91hlttdANcVJEMFZqtdYK%2BxZMDuZdCng47GJSW9sho1TotosizxXo9kq4UPU0r2VZ6gZs7SJqekwOaLbPC%2BJshlWk4sfQv4hB9OuVVUeHDV5kA2fjASppQFia53vibDcxeV7OvHngLWA29b05X%2FJIRMtFUPqzsAQISzHIEHvYKrRc2ZgEXhBMvOGFhT9l4ZT50RNxsnPRG6kqqV6vUylHEbLbosgmY5lHMHgqMghIsjqyZafB5oL29Vj%2Bg5gkV4DiL9AVvZgyjuzY%2FRC73WS6keLLSZtGf6wNcAsx8QlNRsv%2Fa0i%2BAQ%3D%3D&RelayState=ss%3Amem%3A6d1ead2c7a98b495f933353e5bf4a074e93ca93f9494a61080b5e019757d11b9&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=hwaZ4Lzlvhvw%2FAMYP3jkdfYsdl2VYVemi52TKvhb8d1Z3mVsO7T%2FganBm61q%2FKKT8deuWKnunACYKocigZSVc5ZbRfx29brIK6iEQOdVf4Z8ql%2BSIgaorZ%2Fjsw8o1M%2FeARZlESNQg03HzCdDgK1DIsu7slYr0erddlSKjli8mjOsPw9jzGSFzbomGPmj%2BvQw8R2cEJQLXHlrq7rQ05%2F1ccVuDkMwn81riiHGSLr8I2ALI9cHUnm2778HNyu2Mr1GCt2bOFy%2FW%2BKRMdokgWtUx0Ljdl34aAziFQlvMN%2FgsfkpSejcFitQ5C5ogbJCu%2FzW5iKcYHj4hkFrPsIugB%2Bua1znHuktK19o0wyWFMEFPct0YCPcujMl9pGkrT%2FoMG6CaIaY0iiT0Cebf7WXyymLcuEKwohA9IMgfouuenPoKjA62goloytBt0PtU4trpP9PTlOwQzv%2Fb%2FS5IJxZGF70SlbklaE3s0Km%2BJpWfs%2Fgt9HimEoIeV18N3Cvc4cJ4SDZ
+2/3/2022 09:34:37 AM	06-Recurrence-Relations-C-Recursion-Tree.pdf	https://comp550.cs.unc.edu/static/slides/06-Recurrence-Relations-C-Recursion-Tree.pdf?61f754f0
+2/3/2022 09:46:02 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+2/3/2022 09:45:59 AM	Submissions	https://comp550.cs.unc.edu/view/worksheet-chapter-4-4/16236
+2/3/2022 09:46:17 AM	02 Homework	https://comp550.cs.unc.edu/homeworks/homework-02-chapter-4
+2/3/2022 09:55:03 AM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/3/2022 09:55:08 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+2/3/2022 09:55:11 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9
+2/3/2022 09:55:24 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Tests & Quizzes	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/52bae27b-4a2a-4fca-893f-7d85b0178bd9/jsf/index/mainIndex
+2/3/2022 09:55:03 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9FAFxNkLC9GImbhphu9jNUsrnaAYt61d2%2BPdDccYli0nv%2Bh76PukceVO3LO1spXbw3gFa56upFbLjRUw6o5jmKJEp3gAyK1iW3q%2BZ73qsNdpqoWvipIhgrNRqoRV2DZgMzIcU8Lhbx6SytkVGKfI3Lt1OCRfKjmaVLApdg61cRE0PoT7dbrKcOMv%2BFVLxQ96FG%2FXZK8uW9uV7WcPJuINSGhCWZtmGOKtlTF6gCGdRcRNN%2FcCLYCZ4WUahCPeBmAa%2BKEUvQ%2BxgpdByZWPie74%2F8voT5OOQTSbM856Jsz1tvJWqlOr1OpBiECG7y%2FPtaBjzBAaPQ3oBSeYHrOxYbC5AX4%2Flv3RJ8j9LPLOc04uCoa1lD33iarnVtRTfTlrX%2BnNhgFuIyZjQZLD8%2FQPJDw%3D%3D&RelayState=ss%3Amem%3Aae60bd8fb761e25cecfc1f71cb651b9784e54274257fc92d57e74890a5291877&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=aQaAAYdu6he%2FA1I9Zcf8hJ7gHYbOJRDwVvFytj%2FC7gm5CzYO3%2FwrpglxiZF6Xn2Qwndd77RcgzWHL2ysJlbq7Fa1maBuy%2BMH5u2Gcqpdy%2FZEfR%2BvOD2cN4ED9LaT3sCEIRJKmtnKD29PhvT4BkzW%2F5adRSStJUShdVSQzFquKuVy24gJw9ANjtsnxv8h60q8sMnKCDT7teNb5YkWOxgoyzkvWZ94qTQ%2FgLi294ao3%2FS%2Fu1t60cRUUZQPbDJpP62di5YAIySZvrvfESC2v5LcaXKGGKMDN6Pz1Ze7ZY2CdqlHiP%2F1CHP88X2MzLiMXw5D1iwJuneF5%2F2JUH5gfuYY5w%3D%3D
+2/3/2022 10:00:16 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Gradebook	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+2/3/2022 10:00:32 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa
+2/3/2022 10:00:39 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?panel=Main
+2/3/2022 10:00:16 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Gradebook	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/f076853e-c091-488c-898b-ae9a71d391bd
+2/3/2022 10:00:39 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/848bf8ae-967e-4ba2-b28b-565eddb108aa?itemReference=/announcement/msg/f842e8d4-a8cd-475f-8d91-1033d87dc618/main/ed96d5db-68ee-4413-afca-c7edfbe65480&sakai_action=doShowmetadata
+2/3/2022 10:00:59 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Schedule	https://sakai.unc.edu/portal/directtool/110e5f66-f042-42e5-b064-af03f3ae1a05/
+2/3/2022 10:00:08 AM	Sakai @ UNC-Chapel Hill : COMP550.001.SP22 : Overview	https://sakai.unc.edu/portal/site/8d7d98e1-1ae7-41ba-883e-fd0ca7f8522b
+2/3/2022 10:00:13 AM		https://sakai.unc.edu/portal/tool/124965b7-b252-4389-a41a-5694584b242e/synMainLite?time=1
+2/3/2022 10:00:32 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Announcements	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool-reset/848bf8ae-967e-4ba2-b28b-565eddb108aa
+2/3/2022 10:01:08 AM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Resources	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618/tool/eaa89da3-0002-44c7-9db4-c5d1f254a211
+2/3/2022 10:01:14 AM	Presentation8	https://sakai.unc.edu/access/content/group/f842e8d4-a8cd-475f-8d91-1033d87dc618/PollEverywhere%20Questions/Quiz2_PEW_Questions.pdf
+2/3/2022 10:02:06 AM	Screen Shot 2022-01-20 at 4.40.43 PM	https://sakai.unc.edu/access/content/group/f842e8d4-a8cd-475f-8d91-1033d87dc618/PollEverywhere%20Questions/Quiz1_PEW_Questions.pdf
+2/3/2022 10:14:59 AM	Home - Carolina Dining Services	https://dining.unc.edu/
+2/3/2022 10:15:01 AM	Menu & Hours - Carolina Dining Services	https://dining.unc.edu/menu-hours/
+2/3/2022 10:16:53 AM	Getting Help	https://comp550.cs.unc.edu/syllabi/help
+2/3/2022 10:17:12 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+2/3/2022 10:17:30 AM	06-Recurrence-Relations-C-Recursion-Tree.pdf	https://comp550.cs.unc.edu/static/slides/06-Recurrence-Relations-C-Recursion-Tree.pdf?61f754f0
+2/3/2022 10:59:47 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+2/3/2022 10:59:51 AM	05-C Change of variable	https://comp550.cs.unc.edu/worksheets/worksheet-05-C-change-variable
+2/3/2022 11:05:34 AM	Submissions	https://comp550.cs.unc.edu/view/worksheet-05-C-change-variable/16392

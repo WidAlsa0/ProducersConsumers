@@ -1,0 +1,90 @@
+<Events startTimestamp="1651096392314" logVersion="1.0.0.202111260825">
+  <Command __id="0" _type="ShellCommand" date="Wed Apr 27 17:53:21 EDT 2022" starttimestamp="1651096392314" timestamp="9170" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="2" _type="PauseCommand" date="Wed Apr 27 17:53:28 EDT 2022" range="5s-10s" starttimestamp="1651096392314" timestamp="15983">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[6798]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="1" _type="ShellCommand" date="Wed Apr 27 17:53:28 EDT 2022" starttimestamp="1651096392314" timestamp="15968" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="4" _type="PauseCommand" date="Wed Apr 27 17:53:44 EDT 2022" range="10s-20s" starttimestamp="1651096392314" timestamp="32436">
+    <prevType><![CDATA[Gained Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[16467]]></pause>
+    <nextType><![CDATA[Lost Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="3" _type="ShellCommand" date="Wed Apr 27 17:53:44 EDT 2022" starttimestamp="1651096392314" timestamp="32435" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="6" _type="PauseCommand" date="Wed Apr 27 17:53:48 EDT 2022" range="2s-5s" starttimestamp="1651096392314" timestamp="36149">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[3714]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="5" _type="ShellCommand" date="Wed Apr 27 17:53:48 EDT 2022" starttimestamp="1651096392314" timestamp="36149" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="8" _type="PauseCommand" date="Wed Apr 27 17:53:57 EDT 2022" range="5s-10s" starttimestamp="1651096392314" timestamp="45565">
+    <prevType><![CDATA[Gained Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[9415]]></pause>
+    <nextType><![CDATA[Lost Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="7" _type="ShellCommand" date="Wed Apr 27 17:53:57 EDT 2022" starttimestamp="1651096392314" timestamp="45564" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="10" _type="PauseCommand" date="Wed Apr 27 17:54:02 EDT 2022" range="2s-5s" starttimestamp="1651096392314" timestamp="49831">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[4267]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="9" _type="ShellCommand" date="Wed Apr 27 17:54:02 EDT 2022" starttimestamp="1651096392314" timestamp="49831" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="12" _type="PauseCommand" date="Wed Apr 27 17:54:10 EDT 2022" range="5s-10s" starttimestamp="1651096392314" timestamp="58430">
+    <prevType><![CDATA[Gained Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[8598]]></pause>
+    <nextType><![CDATA[Lost Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="15" _type="EclipseCommand" commandID="" date="Wed Apr 27 17:54:58 EDT 2022" starttimestamp="1651096392314" timestamp="105691" />
+  <Command __id="17" _type="PauseCommand" date="Wed Apr 27 17:55:02 EDT 2022" range="2s-5s" starttimestamp="1651096392314" timestamp="110271">
+    <prevType><![CDATA[Other]]></prevType>
+    <prev><![CDATA[EclipseCommand]]></prev>
+    <pause><![CDATA[4580]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="16" _type="ShellCommand" date="Wed Apr 27 17:55:02 EDT 2022" starttimestamp="1651096392314" timestamp="110271" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="19" _type="PauseCommand" date="Wed Apr 27 17:55:25 EDT 2022" range="20s-30s" starttimestamp="1651096392314" timestamp="133492">
+    <prevType><![CDATA[Gained Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[23221]]></pause>
+    <nextType><![CDATA[Lost Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="18" _type="ShellCommand" date="Wed Apr 27 17:55:25 EDT 2022" starttimestamp="1651096392314" timestamp="133492" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="21" _type="PauseCommand" date="Wed Apr 27 17:55:49 EDT 2022" range="20s-30s" starttimestamp="1651096392314" timestamp="157297">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[23805]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="20" _type="ShellCommand" date="Wed Apr 27 17:55:49 EDT 2022" starttimestamp="1651096392314" timestamp="157297" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="23" _type="PauseCommand" date="Wed Apr 27 17:55:58 EDT 2022" range="5s-10s" starttimestamp="1651096392314" timestamp="165959">
+    <prevType><![CDATA[Gained Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[8662]]></pause>
+    <nextType><![CDATA[Lost Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+  <Command __id="22" _type="ShellCommand" date="Wed Apr 27 17:55:58 EDT 2022" starttimestamp="1651096392314" timestamp="165959" type="ECLIPSE_LOST_FOCUS" />
+  <Command __id="25" _type="PauseCommand" date="Wed Apr 27 17:56:21 EDT 2022" range="20s-30s" starttimestamp="1651096392314" timestamp="189350">
+    <prevType><![CDATA[Lost Focus]]></prevType>
+    <prev><![CDATA[ShellCommand]]></prev>
+    <pause><![CDATA[23391]]></pause>
+    <nextType><![CDATA[Gained Focus]]></nextType>
+    <next><![CDATA[ShellCommand]]></next>
+  </Command>
+</Events>

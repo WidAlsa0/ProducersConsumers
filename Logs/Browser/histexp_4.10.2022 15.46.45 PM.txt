@@ -1,0 +1,132 @@
+4/10/2022 16:59:33 PM	ConnectCarolina	https://connectcarolina.unc.edu/
+4/10/2022 16:28:06 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+4/10/2022 16:59:35 PM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+4/10/2022 16:59:42 PM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+4/10/2022 16:59:35 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+4/10/2022 16:59:36 PM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+4/10/2022 16:59:36 PM	An error has occurred.	https://cs.cc.unc.edu/
+4/10/2022 16:59:37 PM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+4/10/2022 16:59:38 PM		https://fs.cc.unc.edu/
+4/10/2022 16:59:39 PM	https://hc.cc.unc.edu/Shibboleth.sso/Login	https://hc.cc.unc.edu/Shibboleth.sso/Login
+4/10/2022 16:59:39 PM	An error has occurred.	https://hc.cc.unc.edu/
+4/10/2022 16:59:40 PM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+4/10/2022 16:59:40 PM	An error has occurred.	https://csrpt.cc.unc.edu/
+4/10/2022 16:59:40 PM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+4/10/2022 16:59:41 PM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+4/10/2022 16:59:41 PM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+4/10/2022 16:59:42 PM	Student	https://hcrpt.cc.unc.edu/
+4/10/2022 16:59:44 PM	Student	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+4/10/2022 16:59:54 PM	Student Center	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_STUDENT_CENTER.GBL
+4/10/2022 16:28:08 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+4/10/2022 16:28:11 PM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+4/10/2022 16:28:14 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Resources	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/tool/40694c40-62be-4ed5-af3c-d2b46b7f85f0
+4/10/2022 16:28:24 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Panopto	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/page/8052a445-b9aa-4f6a-9550-670c69f4a069
+4/10/2022 17:46:11 PM	Fall 2021 Dean's List - Office of the University Registrar	https://registrar.unc.edu/reports/deans-list-degree-recipient-list/fall-2021-deans-list/
+4/10/2022 17:46:05 PM	Dean's List & Degree Recipient List - Office of the University Registrar	https://registrar.unc.edu/reports/deans-list-degree-recipient-list/
+4/10/2022 17:00:38 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSF_SS_1098.GBL?Page=SSF_SS_1098_SEL&Action=U
+4/10/2022 17:00:41 PM	2021 Form 1098-T	https://cs.cc.unc.edu/psc/campus/view/%7bV2%7dMMljr3PJU8xwN3gy9msL6yIVBuSuMPTwd_bQ4rBQf9J0fM_5aaBvYVRJh3kifqmez43k_Re8mdLtVyL4_xUDFKXlXhBPqER6XkAhTshdIaEAnWm8nJB_xC7.8takHGHxBMnA5xy6BA8LiWLb46lpIdgE.ywMjRSsq8qWsFFdEJX1f1A5Rhg147ZP12RxqsLXK9j.D6cG/SSF_SS_1098T.pdf
+4/10/2022 21:23:09 PM	a99 Final Project – Modern Web Programming	https://comp426.johndmart.in/a/99/
+4/10/2022 21:23:10 PM	FINAL – Modern Web Programming	https://comp426.johndmart.in/a/final/
+4/10/2022 21:30:36 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/POST/SSO?execution=e1s1
+4/10/2022 21:30:34 PM	Shibboleth Authentication Request	https://login.libproxy.lib.unc.edu/login
+4/10/2022 21:30:37 PM	ProQuest Ebook Central - Reader	https://ebookcentral-proquest-com.libproxy.lib.unc.edu/lib/unc/reader.action?docID=4901721&ppg=23
+4/10/2022 21:30:32 PM	UNC-Chapel Hill Libraries	https://login.libproxy.lib.unc.edu/login?qurl=https://ebookcentral.proquest.com%2flib%2func%2freader.action%3fdocID%3d4901721%26ppg%3d23
+4/10/2022 21:30:37 PM	ProQuest Ebook Central - Reader	https://login.libproxy.lib.unc.edu/connect?session=sO6pwgMyebl6TypI&qurl=https%3a%2f%2febookcentral.proquest.com%2flib%2func%2freader.action%3fdocID%3d4901721%26ppg%3d23
+4/11/2022 09:08:10 AM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1kb34wFyANejqR5Yl473GmoBz9dGy5-NW
+4/11/2022 09:09:18 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:14:15 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:18:57 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:24:03 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:28:36 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:34:20 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:37:25 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:44:02 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:48:53 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 09:53:36 AM	04/11 - Google Docs	https://docs.google.com/document/d/1XW9_t68FeyK7Z4caWoteZDjT7tEvl-glCGnMuSpSQHQ/edit
+4/11/2022 10:03:24 AM	ConnectCarolina	https://connectcarolina.unc.edu/
+4/11/2022 10:03:28 AM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+4/11/2022 10:03:31 AM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+4/11/2022 10:03:28 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/POST/SSO?execution=e1s1
+4/11/2022 10:03:28 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+4/11/2022 10:03:28 AM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 10:03:29 AM	An error has occurred.	https://cs.cc.unc.edu/
+4/11/2022 10:03:29 AM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 10:03:29 AM		https://fs.cc.unc.edu/
+4/11/2022 10:03:29 AM	https://hc.cc.unc.edu/Shibboleth.sso/Login	https://hc.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 10:03:30 AM	An error has occurred.	https://hc.cc.unc.edu/
+4/11/2022 10:03:30 AM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 10:03:30 AM	An error has occurred.	https://csrpt.cc.unc.edu/
+4/11/2022 10:03:30 AM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 10:03:31 AM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+4/11/2022 10:03:31 AM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 10:03:31 AM	Self Service	https://hcrpt.cc.unc.edu/
+4/11/2022 10:03:33 AM	Self Service	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+4/11/2022 10:03:41 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+4/11/2022 10:03:41 AM		https://unctim.unc.edu/wfc/logon
+4/11/2022 10:03:41 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+4/11/2022 10:03:41 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+4/11/2022 10:03:43 AM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+4/11/2022 10:03:41 AM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVJBbsIwEPxK5DuxE6KkWCQSLYci0YJIaKVeKuMsYCmxU69D%2B%2FyGAC09lJO18uzM7OyOUdRV2PBJ6%2FZ6BR8toPO%2B6kojP%2F2kpLWaG4EKuRY1IHeS55OnOQ99xhtrnJGmIt4EEaxTRj8YjW0NNgd7UBLWq3lK9s41yClttXSq9rvHh7Kln1tJK7Mz%2BlW5%2FXo2Jd60k1daHHl%2BuxDNT4sqG9qJblUF9OgipCsolQXpaJ4viDebpuRdjpJIju5kGCWJiKMyKUXMgEkRA7DNcNvBEFuYaXRCu5SELAwHLBoEQRFEnA15xPw4iN%2BItzzPd690qfTudhibEwj5Y1EsB8tFXvQEB1WCfe7Qt3Ig3gtY7MfuqEg27tPnvU97vZDbFsRlCyT7X2tMr8mzc%2Fn3BrJv&RelayState=
+4/11/2022 12:54:46 PM	ConnectCarolina	https://connectcarolina.unc.edu/
+4/11/2022 12:54:48 PM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+4/11/2022 14:18:08 PM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+4/11/2022 12:54:48 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+4/11/2022 12:54:48 PM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 12:54:49 PM	An error has occurred.	https://cs.cc.unc.edu/
+4/11/2022 12:54:49 PM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 12:54:49 PM		https://fs.cc.unc.edu/
+4/11/2022 12:54:50 PM	https://hc.cc.unc.edu/Shibboleth.sso/Login	https://hc.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 12:54:50 PM	An error has occurred.	https://hc.cc.unc.edu/
+4/11/2022 12:54:50 PM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 12:54:51 PM	An error has occurred.	https://csrpt.cc.unc.edu/
+4/11/2022 12:54:51 PM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 12:54:52 PM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+4/11/2022 12:54:52 PM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+4/11/2022 12:54:53 PM	Student	https://hcrpt.cc.unc.edu/
+4/11/2022 12:54:55 PM	Student	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+4/11/2022 12:55:58 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+4/11/2022 12:55:58 PM		https://unctim.unc.edu/wfc/logon
+4/11/2022 12:55:58 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+4/11/2022 12:55:58 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+4/11/2022 12:56:05 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+4/11/2022 14:18:08 PM	ConnectCarolina session expired	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/?cmd=expire
+4/11/2022 12:55:58 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVLRTsIwFP2Vpe%2Bs22BzNGwJyoMkKIQNTXwxtbtAk62dvS36%2BY6Big%2Fy1Nzcc88599xOkDd11LKps3u1hncHaL3PplbITp2MOKOY5iiRKd4AMitYMX1YsMgPWGu01ULXxJsigrFSqzut0DVgCjAHKWCzXmRkb22LjFKnhJWN3z0%2BVI5%2BbAWt9U6rZ2n3m%2FmMeLNOXip%2B5PmdQtQ%2FI7JqaSe6lTXQo4uIrqGSBoSlRbEk3nyWkVeIx0EKQThKxtUQIEmDcBhE0TZJBU%2FDOOlgiA7mCi1XNiNR1xwEo0EYlmHC4pjFN%2F4oCV6ItzrvdytVJdXuehhvJxCy%2B7JcDVbLouwJDrIC89ihr%2BVAvCcw2K%2FdUZF80qfPep%2Fm8iDXLfDvK5D8f60JvSTPz%2BXfP5B%2FAQ%3D%3D&RelayState=
+4/11/2022 15:15:30 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+4/11/2022 15:15:37 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+4/11/2022 15:15:38 PM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+4/11/2022 15:15:34 PM	Sakai @ UNC-Chapel Hill : COMP311.001.SP22 : Overview	https://sakai.unc.edu/portal/site/f842e8d4-a8cd-475f-8d91-1033d87dc618
+4/11/2022 15:15:39 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Panopto	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b/page/8052a445-b9aa-4f6a-9550-670c69f4a069
+4/11/2022 15:15:30 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9FCpm2AgJ04uZuEmE7WI3Syl1NCst61d2%2BPdDccYli9d9D32ffAtgrepo1rtG78R7L8B5X63SQI8PCeqtpoaBBKpZK4A6TovsfkOJH9DOGme4UcjLAIR10uil0dC3whbCfkguHnebBDXOdUAxBvbGpN9r7ou6x0Ujq8oo4RofwOBDKMH5tiiRtxp%2BITU75F24wZy9su7wUL6XSpyMO1FLK7jDRbFF3nqVoBcWcFbxaUwYi%2BL5lN3wKI5iMpsxsidkGg8ygF6sNTimXYJIQMgkiCZhWIZzGs4oiZ%2BRl5823kpdS%2F16HUg1ioDelWU%2BGcc8CQvHIYMApYsDVnosthegr8eyX7oo%2FZ8lnFku8EXB2NbRhyFxvcqNkvzby5Qyn0srmBMJChFOR8vfG0h%2FAA%3D%3D&RelayState=ss%3Amem%3A212b1adc192ab1d3e190dde175244718376058a87e8b1a604e475b62b388d5ae&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=gyjzCAGp4dfmj46c6ZhQSuezUKq8%2F5y6%2BZzVPmnpenj0z3OrePlffPOxx2tqbAsq5j3d0Sk69RC1Pm8fyBRy%2FKzV5cbpRB5wUz%2BWDpaLqHtBmAn87sJWsAE0u42T0y%2F%2Bkj6Bgy1xL36TlS%2FhF0UxiRsI4yB4NjqqPS4RIWPA%2Be%2FkPiqLrhSIDa7gwuX7DNlM4cH6woPSDO04wsSuCIbaugb863qsVrIc1BOHq3pZvQn8jjllWCvlgPdiCqFYlcM91h0qRQlL4VXDwQaftAe0h3zeVLEAx9VgLLpe30uJQmukBGd7V7feFJgs6FwziMa461fTRbOqeVuD8q5CxsMjzg%3D%3D
+4/11/2022 18:16:28 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+4/11/2022 18:47:44 PM	Computer Science Learning Assistant Application - Fall 2022	https://airtable.com/shrNaaz4AwPqDVDJp
+4/11/2022 20:54:27 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+4/11/2022 20:54:27 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+4/11/2022 20:54:25 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZLNbsIwEIRfJfKdOCRBgEUipXAoEi0RSXvopTLO0lhy7NTr9OftGwil9IKvnpnd%2BbQL5I1qWda5Wu%2FgvQN03lejNLLTR0I6q5nhKJFp3gAyJ1iRPWxY6AestcYZYRTxMkSwThq9NBq7BmwB9kMKeNptElI71yKjVJimnUwCX6DfaeFD1dGilvu9UeBqH9HQY3JI821REm%2FVryI1P4b%2BRfSii1dWLe03OEgFZ%2BMOKmlBOFoUW%2BKtVwl5FRBEMZ%2FweM4P02jWPzGHKOIgqkMwncW9DLGDtUbHtUtIGIThKIhH47AMAjaJWRi%2FEC8%2FF72TupL67TaV%2FSBCdl%2BW%2BWgo8wwWT0V6AUkXR7bsNNhe0b4dy38Rk%2FQGULwAXdCrKcPIlj32setVbpQU316mlPlcWuAOEjImNB0s%2F68h%2FQE%3D&RelayState=ss%3Amem%3A040beb6381dc9446f582b092b80d4af20e56eadcfa7d4db4c4f2355c74787ef8&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=i2aYBsVDLzhgC378lsLFs1ZrnQwoCDQsAI9Qt%2BD9ZAf%2FZlP53nR421LUwZx9or1TuB9Df3Hnkq6X%2BWwdFDqGQZ7l4rn0k27Pti%2FsUZ4hpIfhjQJe6iOkxadssvXRUI%2FN4QJnWj1JSfzRpNN9J6NsSmVpHQkaUAOLOrvPy%2BH764FgD3XDEV7eBDhShnYBDWGvMvo3iiofCAaKeFxdOxL%2BwD7ZA9E0%2FpYsatBokVuBI5pJWQIh5KE11Pv1RuRouQwODWe9%2F1S9FtJZ5VFsTb6s20ymd91gxkjwzFyWxHFqLsJBUTY%2Fw6Cg%2Bsg2q%2FgBoFQGxdB2iXkisMJxoXDNzg1Eu%2BULJb%2Bywqia80WPWUL1Flq9PzPgbBKYCyevzZ6EzDR15Ht4z9yofdz8pJDNDrI83%2F3ShFh%2F28%2BNp%2BRp2pHWbHKYsFyBdFNtjdAHzH1FXMieVqFshbQcCO%2FKdLdykGYRAeIBj5D%2BSSJk4acJ0iHa%2FaCoyNZ54t2m4wXZXVwqGTy3
+4/11/2022 20:56:59 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+4/11/2022 21:05:01 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+4/11/2022 21:04:57 PM	Submissions	https://comp550.cs.unc.edu/view/worksheet-chapter-29/58551
+4/12/2022 10:38:15 AM	ConnectCarolina	https://connectcarolina.unc.edu/
+4/12/2022 10:38:18 AM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+4/12/2022 10:38:22 AM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+4/12/2022 10:38:18 AM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+4/12/2022 10:38:18 AM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+4/12/2022 10:38:18 AM	An error has occurred.	https://cs.cc.unc.edu/
+4/12/2022 10:38:18 AM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+4/12/2022 10:38:19 AM		https://fs.cc.unc.edu/
+4/12/2022 10:38:19 AM	https://hc.cc.unc.edu/Shibboleth.sso/Login	https://hc.cc.unc.edu/Shibboleth.sso/Login
+4/12/2022 10:38:20 AM	An error has occurred.	https://hc.cc.unc.edu/
+4/12/2022 10:38:20 AM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+4/12/2022 10:38:21 AM	An error has occurred.	https://csrpt.cc.unc.edu/
+4/12/2022 10:38:21 AM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+4/12/2022 10:38:21 AM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+4/12/2022 10:38:22 AM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+4/12/2022 10:38:22 AM	Student	https://hcrpt.cc.unc.edu/
+4/12/2022 10:33:59 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+4/12/2022 10:33:59 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+4/12/2022 10:34:05 AM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+4/12/2022 10:33:57 AM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9tCC4rBESphczcZMI28VulgLH2aS0rKfs498PxTl343Xfj%2FM%2B6RxFqzqe9W6vt%2FDeAzrvq1Ua%2BfEhIb3V3AiUyLVoAbmreZE9rHnoM95Z40xtFPEyRLBOGr0wGvsWbAH2Q9bwtF0nZO9ch5zS2rRdHDO%2FRr%2FXtQ9NT4u9rCqjwO19REMPySHNN0VJvOVwitTiEPoXMYjOXtl0dLhgJxWcjFtopIXa0aLYEG%2B1TMjrLA4CwVhUMZjtxE3UAGsgaKKwEVUlbtkgQ%2BxhpdEJ7RISsjCcsGgShGUQ8emUx%2FEL8fLT0DupG6nfrlOpRhHy%2B7LMJ%2BOYZ7B4HDIISDo%2FsOXHYntB%2B3qs%2BEVM0itA8Qx0Ti9axsqOPw6xq2VulKy%2FvUwp87mwIBwkJCA0HS3%2Ff0P6Aw%3D%3D&RelayState=ss%3Amem%3A9230aa7a7366807b79b89b2668ea51a24438f4d83ece4f54805e65fb247250d8&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=iGUtXWOJvIntrC3ddhJ5zd3t3YYf%2F9RE%2FN1oP%2FGsGjCV1Rj1iagkbxonQzSuVTSIAtxjSZGzduIOYnlKaIIs7fgyERxvmb3e4xW%2BvMTIg6PUxD6H%2B0wjkH1%2B2%2BCckgJaU8g7k1mlRfk8jybS55RISg6k41gPs5HUwE%2BOyD6AuH%2BMPShz44Sp1YD3smgaXUuArstFp%2B2XWe3oovf24JaTHDEKa%2FBQp3jwmRUv4ORg71AD6vXOXHfDxO5RyotSK%2FIQDBF8r02A%2FDco2Qo47A%2BRK9nltx39LFUbmQepS2InoVshVeteeldsNxZQU2LeDsdwPK2QBlcOt70Qk5K0oTc%2FcHRo%2FGpreCx6NyOFFAcqBCYq4hLiOr2W2WP%2ByjMR5l2PpGapRQ1FjwirPOeD1fiE851rJyrmASNPRikPKU4qxzpc93fyOo6Lav0WO8k8tceD2GYYpNe96rEOn0hXSkG9CODwxf35Ar5OSihSTnRFjKhCTOpjB%2BaCs79zWjjvGm2H
+4/12/2022 10:36:57 AM	Pass Fail Option & FAQs - Office of the University Registrar	https://registrar.unc.edu/academic-services/grades/pass-fail-option-policy/
+4/12/2022 10:38:36 AM	Student Center	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_STUDENT_CENTER.GBL
+4/12/2022 10:41:49 AM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+4/12/2022 10:38:43 AM	G3FORM	https://pa.cc.unc.edu/psp/paprd_newwin/EMPLOYEE/SA/c/NC_CUSTOM_SS.G_NC_STUDENT_HOME.GBL?Page=G_NC_STUDENT_HOME&Action=U&G3HOMEPAGE=STDNT_SR_PASSFAIL&SEQNO=1
+4/12/2022 10:41:59 AM	15-Linear-Programming-I.pdf	https://comp550.cs.unc.edu/static/slides/15-Linear-Programming-I.pdf?6255746a

@@ -1,0 +1,166 @@
+2/23/2022 11:43:09 AM	fixed var issue + changed output for guess · comp426-2022-spring/a02-WidAlsa0@1529bd1	https://github.com/comp426-2022-spring/a02-WidAlsa0/runs/5305734710?check_suite_focus=true
+2/23/2022 11:47:14 AM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1SL6c7pw7r-MidAzHHougPf5q32tdWEfg
+2/23/2022 11:49:14 AM	Assignment 2.docx - Google Docs	https://docs.google.com/document/d/1P9yZ4PU6J7JjHlwXV8kn9raeX_f1gxYP/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+2/23/2022 11:49:14 AM	Assignment 2.docx - Google Docs	https://docs.google.com/document/d/1P9yZ4PU6J7JjHlwXV8kn9raeX_f1gxYP/edit?rtpof=true
+2/23/2022 11:49:16 AM	Assignment 2.docx - Google Docs	https://docs.google.com/document/d/1P9yZ4PU6J7JjHlwXV8kn9raeX_f1gxYP/edit
+2/23/2022 11:47:37 AM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+2/23/2022 11:47:37 AM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit?rtpof=true
+2/23/2022 11:47:41 AM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit
+2/23/2022 11:47:04 AM	Main - Google Docs	https://docs.google.com/document/d/1auUSabUnoeavQ1TxC_z68I_tVhUK5RYV5aUb8T8vzBQ/edit
+2/23/2022 11:48:12 AM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+2/23/2022 11:48:12 AM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit?rtpof=true
+2/23/2022 11:48:16 AM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit
+2/23/2022 11:48:16 AM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit#heading=h.1fob9te
+2/23/2022 11:53:24 AM	GitHub	https://github.com/
+2/23/2022 11:53:31 AM	WidAlsa0	https://github.com/WidAlsa0
+2/23/2022 11:54:20 AM	pdewan/DemoCourseProject: Project to be checked by DemoCourse local and all checks	https://github.com/pdewan/DemoCourseProject
+2/23/2022 11:54:13 AM	DemoCourseProject/src at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src
+2/23/2022 11:53:44 AM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+2/23/2022 11:53:56 AM	DemoCourseProject/src/counterIncrementer at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/counterIncrementer
+2/23/2022 11:54:11 AM	DemoCourseProject/src/util/models at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/util/models
+2/23/2022 11:54:07 AM	DemoCourseProject/src/stringCounter at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/stringCounter
+2/23/2022 11:54:03 AM	DemoCourseProject/src/coordination at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/coordination
+2/23/2022 11:53:53 AM	DemoCourseProject/src/point at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/point
+2/23/2022 11:53:32 AM	Your Stars	https://github.com/WidAlsa0?tab=stars
+2/23/2022 12:04:09 PM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit#
+2/23/2022 12:08:55 PM	Resource_Guide.docx - Google Docs	https://docs.google.com/document/d/1HBA8QHC0OpOvL-1HzjmlhYyN5myTqvVI/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+2/23/2022 12:08:56 PM	Resource_Guide.docx - Google Docs	https://docs.google.com/document/d/1HBA8QHC0OpOvL-1HzjmlhYyN5myTqvVI/edit?rtpof=true
+2/23/2022 12:09:01 PM	Resource_Guide.docx - Google Docs	https://docs.google.com/document/d/1HBA8QHC0OpOvL-1HzjmlhYyN5myTqvVI/edit
+2/23/2022 12:09:03 PM	JavaTeaching/src/lectures/generics_adapters at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/generics_adapters
+2/23/2022 12:29:58 PM	JavaTeaching/src/lectures/mvc/properties at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties
+2/23/2022 12:30:01 PM	JavaTeaching/src/lectures/mvc/properties/atomic at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties/atomic
+2/23/2022 12:30:44 PM	JavaTeaching/APropertyListenerSupport.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/properties/atomic/APropertyListenerSupport.java
+2/23/2022 12:40:56 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+2/23/2022 12:41:05 PM	DemoCourseProject/RotatingLine.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/RotatingLine.java
+2/23/2022 12:38:38 PM	DemoCourseProject/Locatable.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/Locatable.java
+2/23/2022 12:31:39 PM	DemoCourseProject/PropertyListenerSupport.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/PropertyListenerSupport.java
+2/23/2022 12:41:56 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+2/23/2022 12:42:01 PM	DemoCourseProject/Locatable.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/Locatable.java
+2/23/2022 12:48:18 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+2/23/2022 12:48:22 PM	DemoCourseProject/RotatingLine.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/RotatingLine.java
+2/23/2022 12:48:17 PM	DemoCourseProject/Locatable.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/graphics/Locatable.java
+2/23/2022 13:01:02 PM	ConnectCarolina	https://connectcarolina.unc.edu/
+2/23/2022 13:01:04 PM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+2/23/2022 13:01:07 PM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+2/23/2022 13:01:04 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+2/23/2022 13:01:04 PM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 13:01:05 PM	An error has occurred.	https://cs.cc.unc.edu/
+2/23/2022 13:01:05 PM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 13:01:06 PM		https://fs.cc.unc.edu/
+2/23/2022 13:01:06 PM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 13:01:06 PM	An error has occurred.	https://hc.cc.unc.edu/
+2/23/2022 13:01:06 PM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 13:01:07 PM	An error has occurred.	https://csrpt.cc.unc.edu/
+2/23/2022 13:01:07 PM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 13:01:07 PM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+2/23/2022 13:01:07 PM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 13:01:08 PM	Self Service	https://hcrpt.cc.unc.edu/
+2/23/2022 13:01:10 PM	Self Service	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+2/23/2022 13:01:17 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_NC_URL.ISCRIPT1.FieldFormula.IScript_TIM?1=1
+2/23/2022 13:01:17 PM		https://unctim.unc.edu/wfc/logon
+2/23/2022 13:01:17 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfc/htmlnavigator/launch
+2/23/2022 13:01:18 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111
+2/23/2022 13:01:19 PM	UKG Workforce Central(R)	https://unctim.unc.edu/wfcstatic/applications/navigator/html5/dist/container/index.html?version=8.1.10.1111#/
+2/23/2022 13:01:17 PM		https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fVJBTsMwEPxK5HvjxCVpsJpIhR6oVGjVpCBxQcbZtJYSO3idwvMJaYFyoCdr5dmZ2dmdomhq1vJZ5%2FZ6A28doPM%2BmlojP%2F6kpLOaG4EKuRYNIHeS57P7JWd%2BwFtrnJGmJt4MEaxTRt8ajV0DNgd7UBK2m2VK9s61yCnttHSq8fvHh7Kj75WktdkZ%2FaTcfruYE2%2Feyystvnh%2BuxDNT4sqW9qLVqoG%2BuWC0Q2UyoJ0NM9XxFvMU%2FJSsbCKZCniUEST5JrF44pdRUk8kYEIE4AehtjBQqMT2qWEBYyNAjZi4yJMeBDyMPajcfJMvPVpvhulS6V3l8N4PYKQ3xXFerRe5cVAcFAl2IcefSkH4j2CxWHsnopk0yF9Pvi05wu5bEF8b4Fk%2F2tN6Tl5dir%2F3kD2CQ%3D%3D&RelayState=
+2/23/2022 14:49:25 PM	JavaTeaching/ObservableLine.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties/atomic
+2/23/2022 14:49:31 PM	JavaTeaching/AnObservableLine.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/properties/atomic/AnObservableLine.java
+2/23/2022 15:02:03 PM	JavaTeaching/src/lectures/mvc/properties at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties
+2/23/2022 15:01:58 PM	JavaTeaching/src/lectures/mvc/properties/atomic at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties/atomic
+2/23/2022 15:06:45 PM	JavaTeaching/src/lectures/mvc/toolkit at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/toolkit
+2/23/2022 15:04:59 PM	JavaTeaching/package-info.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/package-info.java
+2/23/2022 15:04:50 PM	JavaTeaching/src/lectures/mvc at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc
+2/23/2022 15:05:08 PM	JavaTeaching/AnObservableBMISpreadsheet.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/AnObservableBMISpreadsheet.java
+2/23/2022 15:06:17 PM	JavaTeaching/MVCToolkitMain.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/MVCToolkitMain.java
+2/23/2022 15:06:53 PM	JavaTeaching/ABMIFrameComposer.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/ABMIFrameComposer.java
+2/23/2022 15:16:06 PM	DemoCourseProject/src/graphics at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics
+2/23/2022 15:16:06 PM	DemoCourseProject/Locatable.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics/Locatable.java#L13
+2/23/2022 15:16:13 PM	DemoCourseProject/Philosopher.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics/Philosopher.java
+2/23/2022 16:11:52 PM	JavaTeaching/src/lectures/mvc/toolkit at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/toolkit
+2/23/2022 16:12:01 PM	JavaTeaching/ABMISpreadsheetView.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/ABMISpreadsheetView.java
+2/23/2022 16:19:50 PM	DemoCourseProject/src/graphics at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics
+2/23/2022 16:21:32 PM	JavaTeaching/src/lectures/mvc/toolkit at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/toolkit
+2/23/2022 16:21:30 PM	JavaTeaching/src/lectures/mvc at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc
+2/23/2022 16:21:26 PM	JavaTeaching/src/lectures at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures
+2/23/2022 16:21:25 PM	JavaTeaching/src/lectures/mvc/properties at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties
+2/23/2022 16:21:17 PM	JavaTeaching/src/lectures/mvc/properties/atomic at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties/atomic
+2/23/2022 16:20:11 PM	JavaTeaching/ABMISpreadsheetView.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/ABMISpreadsheetView.java
+2/23/2022 16:20:45 PM	JavaTeaching/ACounterConsoleView.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/ACounterConsoleView.java
+2/23/2022 16:21:21 PM	JavaTeaching/src/lectures/mvc/properties/line at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties/line
+2/23/2022 16:21:23 PM	JavaTeaching/src/lectures/mvc/properties/extra at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties/extra
+2/23/2022 16:59:47 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/23/2022 16:59:47 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+2/23/2022 16:59:51 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+2/23/2022 16:59:53 PM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+2/23/2022 16:57:30 PM	Computer Science BS/MS Application	https://bsms.cs.unc.edu/
+2/23/2022 16:59:45 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbb4IwGIb%2FCum9FitObISE6cVM3CTCdrGbpcDHaAYt61d2%2BPdDccYli0nv%2Bh76PukSRVO3POpspfbw3gFa56upFfLjRUA6o7gWKJEr0QBym%2FMkut9yNnZ5a7TVua6JEyGCsVKrlVbYNWASMB8yh8f9NiCVtS1ySlG8CTnuVD6GoqNJJbNM12CrMaKmh1BG412SEmfdv0Iqcci7cKM%2Be2XR0r68lDWcjHsopIHc0iTZEWezDsiLV5TeZO6CyJhfuP1h4Jd%2BOb9ZTGfgC6%2BXIXawUWiFsgFhLmMjl43YNGUTPltwb%2FZMnPi08VaqQqrX60CyQYT8Lk3j0TDmCQweh%2FQCEi4PWPmx2FyAvh4rfumS8H%2BWeGa5pBcFQ1vLH%2FrEzTrWtcy%2Fnaiu9efKgLAQkAmh4WD5%2BwfCHw%3D%3D&RelayState=ss%3Amem%3A4e03e2baf9008a1329a360bc09ca7c6ee50cae45fe941024e1aff8296fa8eb56&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=uErY0a8gBfTYlhlu0%2Ba75TPiHRm0ABt2gwt28GgzpphtAeqryhvHHXYn%2FNuB01Q15EXBC7HWOMQ53iaGlMBv4%2FF8%2BkPCqV95Vjvo2JPTFp7zAvovl%2FTxMPC08euj%2BsMD9MttG03VurY098h4rqzdq0m1uQIfExPPIXW5a6vBLU%2FwrXi234mCd1azfeA2xcjHZPgnGHTA5wvJ5uO2qOg1U4xNsfZI30hOHEjD3eCAzBEf6zm73ZWsLs7y8MWTUNhS%2BcYN5sryrBGLW%2Bw6bvdFocOOKay8ofC5zsLUwoTN4qdpY7bG2CkQLWEHMkufraJ3jnr5xKQ7%2BRdX9j6cV%2BP%2Fqg%3D%3D
+2/23/2022 17:02:37 PM	ConnectCarolina	https://connectcarolina.unc.edu/
+2/23/2022 17:02:42 PM	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+2/23/2022 17:02:47 PM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+2/23/2022 17:02:42 PM	pa.cc.unc.edu	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+2/23/2022 17:02:43 PM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 17:02:43 PM	An error has occurred.	https://cs.cc.unc.edu/
+2/23/2022 17:02:43 PM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 17:02:44 PM		https://fs.cc.unc.edu/
+2/23/2022 17:02:44 PM		https://hc.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 17:02:45 PM	An error has occurred.	https://hc.cc.unc.edu/
+2/23/2022 17:02:45 PM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 17:02:46 PM	An error has occurred.	https://csrpt.cc.unc.edu/
+2/23/2022 17:02:46 PM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 17:02:47 PM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+2/23/2022 17:02:47 PM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+2/23/2022 17:02:48 PM	Student	https://hcrpt.cc.unc.edu/
+2/23/2022 17:02:51 PM	Student	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+2/23/2022 17:02:59 PM	Student Center	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_STUDENT_CENTER.GBL
+2/23/2022 17:03:07 PM	My Academic Requirements	https://pa.cc.unc.edu/psp/paprd_newwin/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SAA_SS_DPR_ADB.GBL?Page=SAA_SS_DPR_ADB&Action=A&EMPLID=
+2/23/2022 17:01:42 PM	Computer Science BS/MS Application	https://bsms.cs.unc.edu/
+2/23/2022 17:02:07 PM	How to Calculate Your Grade Point Average - Office of the University Registrar	https://registrar.unc.edu/academic-services/grades/how-to-calculate-your-grade-point-average/
+2/23/2022 17:03:20 PM	SAA_STD_DS.pdf	https://cs.cc.unc.edu/psc/campus_7/view/%7bV2%7d8ysHv2Zp2kTCJXdpp0PRwcCJp4y.Psp7m42T6e4q93UuYuVJWUN1aY6hu_CFB510swf2bwXByqmaXWZrzEu7uHYnpJck00xLd4cQ2NRsDwB78qiW86iEDAMyqpN4LRTb0jZEjfKbzN2NM0dYiiP8bn9s1MU2UAl25AAPfH8Mt78y7MTs7G_fRFinqgwEHCPyQ.Y-/SAA_STD_DS.pdf
+2/23/2022 17:07:37 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+2/23/2022 17:07:40 PM	Sakai @ UNC-Chapel Hill : ECON445.001.SP22 : Overview	https://sakai.unc.edu/portal/site/7e6d4ac2-8031-4b3b-a93c-5da2f9fdc33b
+2/23/2022 17:07:41 PM		https://sakai.unc.edu/portal/tool/427dbb06-aac6-4fc1-a66b-01fb8abea5df/synMainLite?time=1
+2/23/2022 21:21:35 PM	DemoCourseProject/src/graphics at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics
+2/23/2022 21:21:45 PM	DemoCourseProject/src at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src
+2/23/2022 21:22:08 PM	DemoCourseProject/src/counterIncrementer at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer
+2/23/2022 21:22:07 PM	DemoCourseProject/src/counterIncrementer/synchronize at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer/synchronize
+2/23/2022 21:21:00 PM	DemoCourseProject/src/coordination at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/coordination
+2/23/2022 21:21:19 PM	DemoCourseProject/src/stringCounter at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/stringCounter
+2/23/2022 21:21:15 PM	DemoCourseProject/StringCounterView.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/stringCounter/StringCounterView.java
+2/23/2022 21:21:30 PM	DemoCourseProject/src/point at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/point
+2/23/2022 21:22:02 PM	DemoCourseProject/src/counterIncrementer/coordinated at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer/coordinated
+2/23/2022 21:22:12 PM	DemoCourseProject/src/counterIncrementer at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/counterIncrementer/threads
+2/23/2022 21:24:05 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl
+2/23/2022 21:23:53 PM	COMP 550 (3 unread)	https://piazza.com/class/kx51w0xmxl25pq
+2/23/2022 21:23:59 PM	COMP 311 (8 unread)	https://piazza.com/class/ky1qprgqfsd1j
+2/23/2022 21:23:36 PM	DemoCourseProject/src at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src
+2/23/2022 21:22:43 PM	DemoCourseProject/src/coordination at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/coordination
+2/23/2022 21:23:38 PM	pdewan/DemoCourseProject at aadf2a4e5761f477af0e96221d654b52668f9d3c	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c
+2/23/2022 21:22:35 PM	DemoCourseProject/src/coordination/barrier at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/coordination/barrier
+2/23/2022 21:22:40 PM	DemoCourseProject/src/coordination/joiner at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/coordination/joiner
+2/23/2022 21:23:32 PM	DemoCourseProject/src/diningPhilosopher at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/diningPhilosopher
+2/23/2022 21:23:10 PM	DemoCourseProject/src/diningPhilosopher/controller at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/diningPhilosopher/controller
+2/23/2022 21:23:01 PM	DemoCourseProject/ConsoleController.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/diningPhilosopher/controller/ConsoleController.java
+2/23/2022 21:23:05 PM	DemoCourseProject/BasicDiningController.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/diningPhilosopher/controller/BasicDiningController.java
+2/23/2022 21:23:31 PM	DemoCourseProject/src/diningPhilosopher/view at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/diningPhilosopher/view
+2/23/2022 21:23:14 PM	DemoCourseProject/BasicDiningView.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/diningPhilosopher/view/BasicDiningView.java
+2/23/2022 21:24:26 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=7
+2/23/2022 21:24:35 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=157
+2/23/2022 21:24:37 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=189
+2/23/2022 21:24:39 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=217
+2/23/2022 21:24:40 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=218
+2/23/2022 21:25:02 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=222
+2/23/2022 21:25:09 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=223
+2/23/2022 21:25:25 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=226
+2/23/2022 21:26:14 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=236
+2/23/2022 21:26:19 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=274
+2/23/2022 21:26:24 PM	COMP 301 (3 unread)	https://piazza.com/class/koslinq2ke12nl?cid=371
+2/23/2022 21:31:47 PM	JavaTeaching/ABMISpreadsheetView.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/toolkit
+2/23/2022 21:31:57 PM	JavaTeaching/src/lectures/mvc at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc
+2/23/2022 21:32:05 PM	JavaTeaching/src/lectures/mvc/properties at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties
+2/23/2022 21:32:09 PM	JavaTeaching/src/lectures/mvc/properties/atomic at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/properties/atomic
+2/23/2022 21:32:12 PM	JavaTeaching/AnObservableLine.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/properties/atomic/AnObservableLine.java
+2/23/2022 21:31:32 PM	JavaTeaching/ABMISpreadsheetView.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/ABMISpreadsheetView.java
+2/23/2022 21:46:55 PM	DemoCourseProject/src/graphics at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics
+2/23/2022 21:46:52 PM	DemoCourseProject/src at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src
+2/23/2022 21:47:05 PM	DemoCourseProject/BoundedShape.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics/BoundedShape.java
+2/23/2022 21:47:38 PM	DemoCourseProject/src/graphics at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics
+2/23/2022 21:47:49 PM	DemoCourseProject/Locatable.java at aadf2a4e5761f477af0e96221d654b52668f9d3c · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/aadf2a4e5761f477af0e96221d654b52668f9d3c/src/graphics/Locatable.java

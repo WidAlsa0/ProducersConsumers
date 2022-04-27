@@ -1,0 +1,77 @@
+3/17/2022 17:11:34 PM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1SL6c7pw7r-MidAzHHougPf5q32tdWEfg
+3/17/2022 17:11:40 PM	Assignment 2.docx - Google Docs	https://docs.google.com/document/d/1P9yZ4PU6J7JjHlwXV8kn9raeX_f1gxYP/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+3/17/2022 17:11:40 PM	Assignment 2.docx - Google Docs	https://docs.google.com/document/d/1P9yZ4PU6J7JjHlwXV8kn9raeX_f1gxYP/edit?rtpof=true
+3/17/2022 17:11:48 PM	Assignment 2.docx - Google Docs	https://docs.google.com/document/d/1P9yZ4PU6J7JjHlwXV8kn9raeX_f1gxYP/edit
+3/17/2022 17:11:50 PM	JavaTeaching/src/lectures/mvc at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc
+3/17/2022 17:11:50 PM	JavaTeaching/src/lectures/mvc at master · pdewan/JavaTeaching	https://www.google.com/url?q=https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc&sa=D&source=docs&ust=1647555105806257&usg=AOvVaw3w26DeFy6lta3zGaXy8zoc
+3/17/2022 17:12:07 PM	Redirecting	https://www.google.com/url?q=http://www.cs.unc.edu/~dewan/comp401/current/Lectures/MVC.pptx&sa=D&source=docs&ust=1647555121686611&usg=AOvVaw20yhAs97G-yMgC53d4vhme
+3/17/2022 17:18:13 PM	WidAlsa0	https://github.com/WidAlsa0
+3/17/2022 17:18:19 PM	pdewan/DemoCourseProject: Project to be checked by DemoCourse local and all checks	https://github.com/pdewan/DemoCourseProject
+3/17/2022 17:19:49 PM	DemoCourseProject/src at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src
+3/17/2022 17:18:21 PM	DemoCourseProject/src/graphics at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/graphics
+3/17/2022 17:19:48 PM	DemoCourseProject/src/util/models at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/util/models
+3/17/2022 17:18:13 PM	Your Stars	https://github.com/WidAlsa0?tab=stars
+3/17/2022 17:19:22 PM	DemoCourseProject/src/diningPhilosopher at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher
+3/17/2022 17:19:10 PM	DemoCourseProject/src/diningPhilosopher/view at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher/view
+3/17/2022 17:19:21 PM	DemoCourseProject/src/diningPhilosopher/philosopher at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/diningPhilosopher/philosopher
+3/17/2022 17:16:54 PM	JavaTeaching/src/lectures/mvc at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc
+3/17/2022 17:16:50 PM	JavaTeaching/CounterObserver.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/CounterObserver.java
+3/17/2022 17:18:56 PM	DemoCourseProject/BasicDiningView.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/diningPhilosopher/view/BasicDiningView.java
+3/17/2022 17:19:15 PM	DemoCourseProject/BasicPhilosopher.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/diningPhilosopher/philosopher/BasicPhilosopher.java
+3/17/2022 17:19:39 PM	DemoCourseProject/BasicPropertyNotificationSupport.java at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/blob/main/src/util/models/BasicPropertyNotificationSupport.java
+3/17/2022 17:20:37 PM	DemoCourseProject/src at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src
+3/17/2022 17:20:28 PM	DemoCourseProject/src/counterIncrementer at main · pdewan/DemoCourseProject	https://github.com/pdewan/DemoCourseProject/tree/main/src/counterIncrementer
+3/17/2022 18:19:02 PM	mouse listener in java - Google Search	https://www.google.com/search?q=mouse+listener+in+java&oq=mouse+listener&aqs=chrome.1.69i57j0i512l9.2845j0j7&sourceid=chrome&ie=UTF-8
+3/17/2022 18:19:07 PM	MouseListener (Java Platform SE 7 )	https://docs.oracle.com/javase/7/docs/api/java/awt/event/MouseListener.html
+3/17/2022 18:40:57 PM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+3/17/2022 18:40:57 PM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit?rtpof=true
+3/17/2022 18:41:01 PM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit
+3/17/2022 18:41:05 PM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+3/17/2022 18:41:05 PM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit?rtpof=true
+3/17/2022 18:41:10 PM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit
+3/17/2022 18:41:10 PM	Assignment 4.docx - Google Docs	https://docs.google.com/document/d/1Rw_Pc5YV0oWAIT9wmyJF8YWOUvD9cvBh/edit#heading=h.1fob9te
+3/17/2022 18:40:05 PM	UserInterfaceNotes.pdf	https://www.cs.unc.edu/~dewan/comp401/current/Class%20Notes/UserInterfaceNotes.pdf
+3/17/2022 18:47:49 PM	JavaTeaching/src/lectures/mvc/toolkit at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/toolkit
+3/17/2022 18:47:48 PM	JavaTeaching/ABMIFrameComposer.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/ABMIFrameComposer.java
+3/17/2022 18:47:38 PM	JavaTeaching/src/lectures/mvc/toolkit at master · pdewan/JavaTeaching	https://www.google.com/url?q=https://github.com/pdewan/JavaTeaching/tree/master/src/lectures/mvc/toolkit&sa=D&source=docs&ust=1647560853799607&usg=AOvVaw1VSvmnlpX4R6lWD-sQL7w-
+3/17/2022 18:47:50 PM	JavaTeaching/ABMISpreadsheetController.java at master · pdewan/JavaTeaching	https://github.com/pdewan/JavaTeaching/blob/master/src/lectures/mvc/toolkit/ABMISpreadsheetController.java
+3/17/2022 19:12:19 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+3/17/2022 19:13:28 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+3/17/2022 19:12:23 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+3/17/2022 19:13:02 PM	COMP550.Fall21.Midterm1	https://comp550.cs.unc.edu/handouts/COMP550.Fall21.Midterm1
+3/17/2022 19:13:43 PM	COMP550.Spring21.Midterm2	https://comp550.cs.unc.edu/handouts/COMP550.Spring21.Midterm2
+3/17/2022 19:11:51 PM	550 Midterm II Study Guide - Google Docs	https://docs.google.com/document/d/1h6HMRg5sbVcnyNQsdyyMBjAN4CE5glNUbigwEybwd9k/edit
+3/17/2022 19:11:48 PM	550 Midterm II Study Guide - Google Docs	https://docs.google.com/document/d/1h6HMRg5sbVcnyNQsdyyMBjAN4CE5glNUbigwEybwd9k/edit?usp=drive_web&ouid=100407440431679426204
+3/17/2022 19:12:17 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJNb4IwGMe%2FCuldSivE2IgJ08NM3CTCdthlKaWOJqVlfcpevv1QnHMXz%2F2%2FPP9fugDe6o5lvW%2FMXr73Enzw1WoD7PSQot4ZZjkoYIa3EpgXrMgetoyGEeuc9VZYjYIMQDqvrFlZA30rXSHdhxLyab9NUeN9BwxjYdsuSaJQQNgbEcq6x0Wjqspq6ZsQwOJjMsX5rihRsB5OUYYfQ%2F8iBtHFq%2BoODxcclJZn417WyknhcVHsULBZp%2Bg1EdU8pkLUhEQ8jqcxmdUiIXROahrN6WGQAfRyY8Bz41NEI0on0XRCZiWdMkIZiV9QkJ%2BH3ilTK%2FN2m0o1ioDdl2U%2BGcc8SwenIYMALRdHtuxU7K5o347lv4jR8gZQuABd4KuWsbJjj0PsZp1brcR3kGltP1dOci9TRBBejpb%2Fv2H5Aw%3D%3D&RelayState=ss%3Amem%3A632c044aa07da9ce0a01be8349d399a7f0762c4ad8c0dc3a4877a9e54f22805c&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=Bve4xm5KG8maTMbFsQqvgiawBtcjGo%2FmZ4HjfepNjkO4qJl9EWTpJFhBJwBBumugB1ZkbOKjgsAGUkTqzQfBCTIYM1OBQSRb0nAQRg37V23yjW14siDaB8cbB3%2FA%2FP9AdHuMx0EzFWulqW3ZogzoH71WYRbZvDzWHsTkPkr8RUK83oMga0Obk4exosgpEHMCNC%2F1cajykcq0wtEOd%2FHTDRR7N4Ew7hn5kBzq7XkK2%2B2H7Gy21O6z3fog2i%2F7iuHMNRC7cDNYjbMu8NQ1JfuHvaIhHo%2FU%2BZJDj8IDj2yKj0RWxrXNzZ7BSskVMDoOv5vpJcgOCtTjYW4Pu9OMlX2GvI7h7NyGUeljvZDvckpaX9MZGMu3jdd5kbchSNtpe9iJ41%2FaKop1%2BxSNuPIC2gWzfnoRd0d0Vfo6H4hGTNwEfmU%2B4nEwWwg6FFD4A3eZK%2B4oE2t%2FMS2m2KvZq4GTZc5QUzoR1Sf74giuULMsD8PBebo5Xm2Mqu8glJuzUmX7TRb2
+3/17/2022 19:19:11 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+3/17/2022 19:16:09 PM	550 Midterm II Study Guide - Google Docs	https://docs.google.com/document/d/1h6HMRg5sbVcnyNQsdyyMBjAN4CE5glNUbigwEybwd9k/edit
+3/17/2022 19:19:13 PM	COMP550.Fall21.Midterm2	https://comp550.cs.unc.edu/handouts/COMP550.Fall21.Midterm2
+3/17/2022 19:25:03 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+3/17/2022 19:25:09 PM	COMP550.Spring20.Midterm2	https://comp550.cs.unc.edu/handouts/COMP550.Spring20.Midterm2
+3/17/2022 19:25:33 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+3/17/2022 19:25:35 PM	COMP550.Fall20.Midterm2	https://comp550.cs.unc.edu/handouts/COMP550.Fall20.Midterm2
+3/17/2022 19:32:15 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+3/17/2022 19:32:18 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+3/17/2022 19:32:27 PM	03 Homework Chapter 9 and Chapter 15	https://comp550.cs.unc.edu/homeworks/homework-03-select
+3/17/2022 19:32:24 PM	Submissions	https://comp550.cs.unc.edu/view/homework-03-select/42918
+3/17/2022 19:42:09 PM	550 Midterm II Study Guide - Google Docs	https://docs.google.com/document/d/1h6HMRg5sbVcnyNQsdyyMBjAN4CE5glNUbigwEybwd9k/edit
+3/17/2022 20:07:27 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+3/17/2022 20:07:30 PM	COMP550.Fall21.Midterm2	https://comp550.cs.unc.edu/handouts/COMP550.Fall21.Midterm2
+3/18/2022 12:06:57 PM	Assignments - Google Drive	https://drive.google.com/drive/u/0/folders/1SL6c7pw7r-MidAzHHougPf5q32tdWEfg
+3/18/2022 12:07:01 PM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit?usp=drive_web&ouid=100407440431679426204&rtpof=true
+3/18/2022 12:07:01 PM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit?rtpof=true
+3/18/2022 12:07:05 PM	Assignment 3.docx - Google Docs	https://docs.google.com/document/d/179x2gWEF5BLND9LNUX_u0RGqmvpHC_JN/edit
+3/18/2022 12:31:52 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+3/18/2022 12:31:52 PM	COMP550.Fall20.Midterm2	https://comp550.cs.unc.edu/handouts/COMP550.Fall20.Midterm2
+3/18/2022 12:31:51 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZLJboMwFEV%2FBXkfzNAwWAGJJotGShsUaBfdVMS8FktgUz%2FT4e9LQpqmm6x9h3ePvMCqa3uWDaaRO3gfAI311bUS2fEhIYOWTFUokMmqA2SGsyK73zDPdlivlVFctcTKEEEboeRSSRw60AXoD8HhcbdJSGNMj4xSrrp%2BPndsjvYguQ31QItG7PeqBdPYiIoekj2ab4uSWKvxFCGrQ%2BhfxCg6e0Xd0%2FGCV9HCybiDWmjghhbFlljrVUJeYj%2BK3MCDG4fHbhTGURBEDnd8n4dx5YbhKEMcYC3RVNIkxHM8b%2Bb4Mzcq3YD5Lps7z8TKT0NvhayFfLtOZT%2BJkN2VZT6bxjyBxuOQUUDSxYEtOxbrC9rXY6tfxCS9AhTPQBf0omWq7NnDGLte5aoV%2FNvK2lZ9LjVUBhLiEppOlv%2B%2FIf0B&RelayState=ss%3Amem%3A54134b31b62ae0b9cc449f11ca61e64736979f47e49dd375acdfbc1b7d2c711c&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=VpG9NRlkwUV8Lz%2FCMuY9aFeUlBNLvDiK7tESWZ5eTIUa2m1GUA54%2FRG5qSE8heZwfM44AK3kU2LNsh5vu0OrcwDvusOHOP6qjWYFK2j3pZTn8J%2Bh9GZHYwf1PTCZKWd4SOttUyNUkjrjGR07nam1biiHv8a4aIRUVwzOmGeMWHmF5b0ged3QFH3dLBqN3CkvnNnGaP8j3KnmOHJRsigLtOo%2F%2FmbkwhKpEoy0BT21gzORsX2Vk4IS9Tai%2BitIfJVfvwxQ1w2rs9K8vUfm8w%2BZlGu4%2BRowNbXVSPK%2Bqc8PIkEIBWa4R%2B4WTQO0eAZ0MxqS8Yd3n0C4zEdS2vCFCEkFDH1O7GiLjgTO9c3wwKsh8H0uySS0zfFReuK0bJAFQ5YQjdsazrMrqI7Zhp7z3PEHfFGD2iRPTk1XimFdhDj1nLv%2Fts5GICDG5DW%2BWvdc%2FWvI1zzDCkUdzriCaBCXfELkGtAYba38au4dYQv8aHD%2BZLlcCzMLJojYqi1oIHu%2FZKxU
+3/18/2022 12:42:04 PM	COMP 550 Spring 2022	https://comp550.cs.unc.edu/
+3/18/2022 12:42:37 PM	08-Medians-And-Order-Statistics.III.pdf	https://comp550.cs.unc.edu/static/slides/08-Medians-And-Order-Statistics.III.pdf?622952f1
+3/18/2022 12:42:12 PM	08-Medians-And-Order-Statistics.II.pdf	https://comp550.cs.unc.edu/static/slides/08-Medians-And-Order-Statistics.II.pdf?622952ee
+3/18/2022 12:52:52 PM	06-Recurrence-Relations-D-Master-Method.pdf	https://comp550.cs.unc.edu/static/slides/06-Recurrence-Relations-D-Master-Method.pdf?622952f9
+3/18/2022 13:04:29 PM	Grades for Onyen: wid; Name: Alsadoon, Wid	https://comp550.cs.unc.edu/grades
+3/18/2022 13:04:59 PM	04 Homework	https://comp550.cs.unc.edu/homeworks/homework-04-foot
+3/18/2022 15:44:12 PM	550 Midterm II Study Guide - Google Docs	https://docs.google.com/document/d/1h6HMRg5sbVcnyNQsdyyMBjAN4CE5glNUbigwEybwd9k/edit
+3/18/2022 16:44:03 PM	z getter in java - Google Search	https://www.google.com/search?q=z+getter+in+java&oq=z+getter+in+java&aqs=chrome..69i57j33i22i29i30l8.4503j0j7&sourceid=chrome&ie=UTF-8
+3/18/2022 16:44:15 PM	java how to make pictures on top of each other - Google Search	https://www.google.com/search?q=java+how+to+make+pictures+on+top+of+each+other&sxsrf=APq-WBs_YP8hzT9g-Xq9a3qcZZPlYqjJGw%3A1647636240261&ei=EO80YvufD4WKggeFnKuABg&oq=java+how+to+make+pictures+on+top+of+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAEyBQghEKABMgUIIRCrAjIFCCEQqwI6BwgAEEcQsAM6BAgjECc6BAgAEEM6BQgAEJECOgsILhCxAxCDARDUAjoOCC4QgAQQsQMQxwEQowI6CAguELEDEIMBOgQILhBDOgcIABCxAxBDOggIABCxAxCRAjoICAAQgAQQsQM6CwgAEIAEELEDEIMBOgUIABCABDoTCC4QgAQQhwIQsQMQxwEQowIQFDoGCAAQFhAeOggIIRAWEB0QHkoECEEYAEoECEYYAFD4HljcQ2D6SmgFcAF4AYAB_wGIAbMbkgEHMjMuMTAuMpgBAKABAcgBCMABAQ&sclient=gws-wiz
+3/18/2022 16:44:18 PM	How to place images on top of each other in java - Stack Overflow	https://stackoverflow.com/questions/3067426/how-to-place-images-on-top-of-each-other-in-java
+3/18/2022 16:44:32 PM	Java Swing - how to show a panel on top of another panel? - Stack Overflow	https://stackoverflow.com/questions/852631/java-swing-how-to-show-a-panel-on-top-of-another-panel/852792#852792
